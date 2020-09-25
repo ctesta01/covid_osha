@@ -1,0 +1,30 @@
+Package: osha.analysis
+Title: Analyze Closed OSHA Data
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Christian",
+           family = "Testa",
+           role = c("aut", "cre"),
+           email = "ctesta@hsph.harvard.edu")
+Description: Analyze the OSHA dataset as it relates to the COVID-19 pandemic
+  and lack of preventative measures against COVID-19 in the workplace across the
+  United States broken down by industry, geography, and time.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
+Depends:
+  openxlsx,
+  dplyr,
+  ggplot2,
+  lubridate,
+  yaml,
+  magrittr,
+  janitor,
+  tidycensus,
+  tidyr
+Remotes:
+  UrbanInstitute/urbnmapr
+Imports: 
+    urbnmapr

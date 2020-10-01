@@ -173,7 +173,7 @@ national_osha_volume <-
     scale_y_continuous( sec.axis = sec_axis(~ (. / 90), name = "Deaths Per Million (7-Day Avg)")) + 
     guides(fill=guide_legend(nrow=2,byrow=TRUE), linetype=guide_legend(title='7-Day Avg of COVID-19\nDeaths per Million')) + 
     ggtitle("National OSHA Complaints and COVID-19 Deaths per Million (7-Day Avg)",
-      "Complaints were most correlated with deaths 17 days later, \u03C1=0.845")
+      "Complaints were most correlated with deaths 16 days later, \u03C1=0.826")
 
 national_osha_volume_w_legend <- 
   national_osha_volume + 
@@ -211,15 +211,15 @@ osha_regional_plot <- function(region_name) {
 
   days_later <- switch(quo_name(region_name),
     west = 24,
-    south = 22,
+    south = 28,
     midwest = 11,
     northeast = 15)
 
   cor_rho = switch(quo_name(region_name),
-    west = 0.706,
-    south = 0.717,
-    midwest = 0.907,
-    northeast = 0.938)
+    west = 0.727,
+    south = 0.638,
+    midwest = 0.874,
+    northeast = 0.939)
 
   map_inset <- switch(quo_name(region_name),
     west = west_map,

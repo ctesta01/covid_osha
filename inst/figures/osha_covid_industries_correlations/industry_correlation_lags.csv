@@ -1,0 +1,61 @@
+"industry","variable","lag","rho","complaints"
+"Accommodation and Food Services","cases",9,0.840332280671661,3989
+"Administrative and Support and Waste Management and Remediation Services","cases",7,-0.0347589222115248,1249
+"Agriculture, Forestry, Fishing and Hunting","cases",4,0.0474611870368873,311
+"Arts, Entertainment, and Recreation","cases",7,0.813954526771586,722
+"Construction","cases",7,-0.134341032920957,1174
+"Educational Services","cases",-9,0.597707613675186,702
+"Finance and Insurance","cases",9,-0.130719439835534,459
+"Health Care and Social Assistance","cases",14,0.0347132573013757,6911
+"Information","cases",11,-0.192421745678632,319
+"Management of Companies and Enterprises","cases",6,0.665348652080055,28
+"Manufacturing","cases",6,-0.12088848287792,6002
+"Mining, Quarrying, and Oil and Gas Extraction","cases",16,0.136918995049548,17
+"Other Services (except Public Administration)","cases",6,0.347227158402731,1346
+"Professional, Scientific, and Technical Services","cases",8,0.00737227172449181,684
+"Public Administration","cases",6,0.145263927310361,1162
+"Real Estate and Rental and Leasing","cases",4,0.359601943244152,451
+"Retail Trade","cases",7,0.679937333075475,6552
+"Transportation and Warehousing","cases",8,0.300320092500553,2464
+"Utilities","cases",10,-0.197841954266317,85
+"Wholesale Trade","cases",6,0.0245043133636717,1285
+"Accommodation and Food Services","death",-28,-0.127910372665254,3989
+"Administrative and Support and Waste Management and Remediation Services","death",18,0.893013760684282,1249
+"Agriculture, Forestry, Fishing and Hunting","death",16,0.677501425956994,311
+"Arts, Entertainment, and Recreation","death",-28,0.00137434655767535,722
+"Construction","death",16,0.83422906855335,1174
+"Educational Services","death",13,0.122221119871759,702
+"Finance and Insurance","death",20,0.715263359140457,459
+"Health Care and Social Assistance","death",20,0.927824263975295,6911
+"Information","death",22,0.742599194080537,319
+"Management of Companies and Enterprises","death",28,0.272167372477593,28
+"Manufacturing","death",14,0.807972072128246,6002
+"Mining, Quarrying, and Oil and Gas Extraction","death",28,0.628925716262653,17
+"Other Services (except Public Administration)","death",-28,0.136306725600192,1346
+"Professional, Scientific, and Technical Services","death",18,0.673824725501428,684
+"Public Administration","death",17,0.68874326705922,1162
+"Real Estate and Rental and Leasing","death",14,0.657511969730872,451
+"Retail Trade","death",14,0.409152981016564,6552
+"Transportation and Warehousing","death",16,0.783523374394587,2464
+"Utilities","death",28,0.871412976352777,85
+"Wholesale Trade","death",15,0.770686559508047,1285
+"Accommodation and Food Services","positivity",12,-0.256613531112614,3989
+"Administrative and Support and Waste Management and Remediation Services","positivity",4,0.795325364647663,1249
+"Agriculture, Forestry, Fishing and Hunting","positivity",2,0.66003336184408,311
+"Arts, Entertainment, and Recreation","positivity",26,-0.284406282448982,722
+"Construction","positivity",3,0.832080485419748,1174
+"Educational Services","positivity",2,-0.0126682117592528,702
+"Finance and Insurance","positivity",16,0.779055642315323,459
+"Health Care and Social Assistance","positivity",-13,0.693979568598202,6911
+"Information","positivity",16,0.827779242206285,319
+"Management of Companies and Enterprises","positivity",22,0.309683190658609,28
+"Manufacturing","positivity",3,0.683387178391795,6002
+"Mining, Quarrying, and Oil and Gas Extraction","positivity",14,0.654626092250787,17
+"Other Services (except Public Administration)","positivity",-23,-0.0697814415029357,1346
+"Professional, Scientific, and Technical Services","positivity",7,0.666541187922616,684
+"Public Administration","positivity",5,0.676726940598268,1162
+"Real Estate and Rental and Leasing","positivity",2,0.596836522916993,451
+"Retail Trade","positivity",5,0.286093289279289,6552
+"Transportation and Warehousing","positivity",6,0.554547352803492,2464
+"Utilities","positivity",17,0.920911211803048,85
+"Wholesale Trade","positivity",1,0.761905331649574,1285

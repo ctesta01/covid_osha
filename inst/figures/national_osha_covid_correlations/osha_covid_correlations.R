@@ -128,15 +128,15 @@ max_death_cor_lag <- max_death_cor %>% pull(shift)
 
 cor_df$variable %<>% factor(levels = c("death", 'cases', 'positivity'))
 
-ggplot(cor_df, aes(x = shift, y = variable, fill = rho)) + 
+plt <- ggplot(cor_df %>% filter(variable != 'positivity'), aes(x = shift, y = variable, fill = rho)) + 
   geom_tile() + 
-  scale_fill_viridis_c() + 
+  scale_fill_viridis_c(limits=c(-.75,1)) + 
   ggtitle("Lagged Correlations with OSHA Complaint Volume at the National Level\n",
     paste0(
-    "OSHA complaints were most correlated with COVID-19 test positivity ", 
-    ifelse(max_positivity_cor_lag >= 0,
-      paste0(max_positivity_cor_lag, " days later, \u03C1=", signif(max_positivity_cor_val, 3), ".\n\n"),
-      paste0(abs(max_positivity_cor_lag), " days prior, \u03C1=", signif(max_positivity_cor_val, 3), ".\n\n")),
+    # "OSHA complaints were most correlated with COVID-19 test positivity ", 
+    # ifelse(max_positivity_cor_lag >= 0,
+    #   paste0(max_positivity_cor_lag, " days later, \u03C1=", signif(max_positivity_cor_val, 3), ".\n\n"),
+    #   paste0(abs(max_positivity_cor_lag), " days prior, \u03C1=", signif(max_positivity_cor_val, 3), ".\n\n")),
     "OSHA complaints were most correlated with COVID-19 cases ", 
     ifelse(max_cases_cor_lag >= 0,
       paste0(max_cases_cor_lag, " days later, \u03C1=", signif(max_cases_cor_val, 3), ".\n\n"),
@@ -149,4 +149,6 @@ ggplot(cor_df, aes(x = shift, y = variable, fill = rho)) +
     )) +
   labs(fill = guide_legend(title="Pearson's\ncorrelation\ncoefficient\n\u03C1"))
 
-ggsave("lagged_correlation.png", width=13, height=7)
+ggsave(plot = plt, "lagged_correlation.png", width=13, height=7)
+
+saveRDS(plt, 'national_lagged_correlations.rds')

@@ -1,86 +1,79 @@
 
 #  load osha.analysis
 devtools::load_all()
-library(urbnmapr) 
+library(urbnmapr) # convenient US states mapping package
 
 # get osha data
 load_osha()
 
+# insert top level naics
+osha$top_level_naics <- 
+  stringr::str_extract(osha$primary_site_naics, "^[0-9][0-9]")
+
+# load industry codes
+osha$industry <- 
+  sapply(osha$top_level_naics, 
+    function(id) {
+      naics[[id]][[1]]
+    })
+
+
 # load covid data
 covid <- readr::read_csv(system.file("covid/covidtracking_allstateshistory.csv", package='osha.analysis'))
-
-# get us census regions
-us_census_regions <- get_us_census_regions()
-
-# merge in regions to covid data 
-covid %<>% merge(us_census_regions, by.x = 'state', by.y = 'state_abb')
 
 # use date-types for covid dates
 covid %<>% mutate(date = lubridate::ymd(date))
 
 # group by region
-covid %<>% group_by(region, date) %>% 
+covid %<>% group_by(date) %>% 
   summarize(
     death = sum(deathIncrease),
     positive = sum(positiveIncrease),
     totalTestResults = sum(totalTestResultsIncrease))
 
-# add title casing to regions
-covid$region <- tools::toTitleCase(covid$region)
+# aggregate national data
+national_covid <- covid 
+
+# indicate national region for national aggregate data
+national_covid %<>% mutate(region = 'National')
+
+# add positivity
+national_covid %<>% mutate(positivity = positive / totalTestResults)
+
+
+# 7 day smoothing
+ma <- function(x, n = 7){stats::filter(x, rep(1 / n, n), sides = 1)}
+national_covid %<>% mutate_if(is.numeric, ma)
+
+
 
 # make osha dates date-type
 osha$date <- as.Date(osha$receipt_date, origin = "1899-12-30")
 
-# clean osha addresses
-osha %<>% clean_osha_addresses()
+for (industry in sapply(naics, `[[`, 1)) {
 
-# infer states
-osha %<>% infer_states()
+  # get osha daily counts
+  osha_daily_counts <- osha %>% 
+    filter(industry == {{ industry }}) %>% 
+    group_by(date) %>% 
+    summarize(count = n())
 
-# add state_abb to osha
-state_name_to_abb <- c("DISTRICT OF COLUMBIA" = "DC", setNames(state.abb, toupper(state.name)))
-osha$state_abb <- state_name_to_abb[osha$state]
+  # 7 day smoothing
+  osha_daily_counts$count <- ma(osha_daily_counts$count)
 
-# add regions to osha
-osha %<>% merge(us_census_regions, by = 'state_abb')
-osha$region %<>% tools::toTitleCase()
+  # filter NA values out
+  osha_daily_counts %<>% filter(!is.na(count))
 
-# get osha daily counts
-osha_daily_counts <- osha %>% group_by(region, date) %>% 
-  summarize(count = n())
+  # merge data by date
+  df <- merge(osha_daily_counts, national_covid, by='date', all=T)
 
-# add positivity
-covid %<>% mutate(positivity = positive / totalTestResults)
-
-# add smoothing
-ma <- function(x, n = 7){stats::filter(x, rep(1 / n, n), sides = 1)}
-
-osha_daily_counts %<>% 
-  group_by(region) %>% 
-  arrange(date) %>% 
-  mutate(count = ma(count))
-
-covid %<>% group_by(region) %>% 
-  arrange(date) %>% 
-  mutate(death = ma(death), positive = ma(positive), totalTestResults = ma(totalTestResults),
-    positivity = ma(positivity))
-
-osha_daily_counts %<>% filter(!is.na(count))
-
-
-all_regions_df <- merge(osha_daily_counts, covid, by=c('date', 'region'), all=T)
-
-make_regional_correlation_plot <- function(region = c("West", "Midwest", "Northeast", "South"), save=T) { 
-
-  df <- all_regions_df %>% filter(region == {{ region }})
-  df$region %<>% factor(levels = c("death", "cases", "positivity"))
-  start_date_idx <- min(which(df$date >= min(osha_daily_counts$date)))
+  # get start date and end date indexes
+  start_date_idx <- which(df$date == min(osha_daily_counts$date))
   end_date_idx <- which(df$date == max(osha_daily_counts$date))
 
   lagged_positivity_cor <- c()
   lagged_cases_cor <- c()
   lagged_death_cor <- c()
-
 
   for (i in -28:28) {
 
@@ -144,18 +137,19 @@ make_regional_correlation_plot <- function(region = c("West", "Midwest", "Northe
   max_death_cor_val <- max_death_cor %>% pull(rho)
   max_death_cor_lag <- max_death_cor %>% pull(shift)
 
+  cor_df$variable %<>% factor(levels = c("death", 'cases', 'positivity'))
 
-  cor_df$variable %<>% factor(levels = c('death', 'cases', 'positivity'))
-
-  plt <- ggplot(cor_df %>% filter(variable != 'positivity'), aes(x = shift, y = variable, fill = rho)) + 
+  ggplot(cor_df, aes(x = shift, y = variable, fill = rho)) + 
     geom_tile() + 
-    scale_fill_viridis_c(limits = c(-.75,1)) + 
-    ggtitle(paste0("Lagged Correlations with OSHA Complaint Volume in the ", region, "\n"),
+    scale_fill_viridis_c() + 
+    ggtitle(paste0("Lagged Correlations with ", 
+        industry, 
+        " OSHA Complaint Volume\nat the National Level\n"),
       paste0(
-      # "OSHA complaints were most correlated with COVID-19 test positivity ", 
-      # ifelse(max_positivity_cor_lag >= 0,
-      #   paste0(max_positivity_cor_lag, " days later, \u03C1=", signif(max_positivity_cor_val, 3), ".\n\n"),
-      #   paste0(abs(max_positivity_cor_lag), " days prior, \u03C1=", signif(max_positivity_cor_val, 3), ".\n\n")),
+      "OSHA complaints were most correlated with COVID-19 test positivity ", 
+      ifelse(max_positivity_cor_lag >= 0,
+        paste0(max_positivity_cor_lag, " days later, \u03C1=", signif(max_positivity_cor_val, 3), ".\n\n"),
+        paste0(abs(max_positivity_cor_lag), " days prior, \u03C1=", signif(max_positivity_cor_val, 3), ".\n\n")),
       "OSHA complaints were most correlated with COVID-19 cases ", 
       ifelse(max_cases_cor_lag >= 0,
         paste0(max_cases_cor_lag, " days later, \u03C1=", signif(max_cases_cor_val, 3), ".\n\n"),
@@ -168,15 +162,8 @@ make_regional_correlation_plot <- function(region = c("West", "Midwest", "Northe
       )) +
     labs(fill = guide_legend(title="Pearson's\ncorrelation\ncoefficient\n\u03C1"))
 
-  plot_name = paste0("lagged_correlation_", region)
+  ggsave(paste0("lagged_correlation - ", industry, ".png"), width=13, height=7)
 
-  if (save) ggsave(plot = plt, paste0('png/', plot_name, ".png"), width=13, height=7)
-
-  if (save) saveRDS(plt, paste0('rds/', plot_name, '.rds'))
+  write.csv(cor_df, paste0("lagged_correlation - ", industry, ".csv"))
 
 }
-
-make_regional_correlation_plot('West')
-make_regional_correlation_plot('Midwest')
-make_regional_correlation_plot('South')
-make_regional_correlation_plot('Northeast')

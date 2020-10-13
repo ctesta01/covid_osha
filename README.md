@@ -5,7 +5,7 @@ This repository stores the code which was used to render figures and analyses
 for the *COVID-19: US Federal accountability for entry, spread, and
 inequities—lessons for the future* manuscript. 
 
-**Authors:** W. P. Hanage^1, C. Testa^2, J. T. Chen^2, L. Davis^3, E. Pechter^3, P. Seminario^4 M. Santillana^5 and N. Krieger^2
+**Authors:** W. P. Hanage<sup>1</sup>, C. Testa<sup>2</sup>, J. T. Chen<sup>2</sup>, L. Davis<sup>3</sup>, E. Pechter<sup>3</sup>, P. Seminario<sup>4</sup> M. Santillana<sup>5</sup> and N. Krieger<sup>2</sup>
 
 1. Center for Communicable Disease Dynamics, Department of Epidemiology, Harvard T. H. Chan School of Public Health, Boston, MA.
 

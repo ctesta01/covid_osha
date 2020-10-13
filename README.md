@@ -9,9 +9,16 @@ The figures are produced by the scripts in `inst/figures/`.
 The R package contained herein standardizes the methods to load the OSHA complaints, 
 and clean the data.
 
-![Figure 1. National OSHA complaints and COVID—19 deaths per million (7 Day Average), January 16-September 18, 2020](inst/figures/regional_complaints_and_deaths/full_plot.png)
 
-![Figure 2. Heatmaps showing the lagged correlations between OSHA complaint volume and COVID-19 cases and COVID-19 deaths, nationally and by US region, January 16, 2020 – September 30, 2020.](inst/figures/osha_covid_correlations_regional/five_panel_correlations.png)
+### Figure 1. National OSHA complaints and COVID—19 deaths per million (7 Day Average), January 16-September 18, 2020 
+
+![Figure 1 shows the OSHA complaints and death rate time series for the United States at large and each of the major US regions (west, midwest, south, northeast). The figure shows how the COVID-19 death rates increased following an increase in OSHA complaints. Each respective region's correlation after accounting for the lag between complaints and deaths is presented.](inst/figures/regional_complaints_and_deaths/full_plot.png)
+
+
+
+### Figure 2. Heatmaps showing the lagged correlations between OSHA complaint volume and COVID-19 cases and COVID-19 deaths, nationally and by US region, January 16, 2020 – September 30, 2020.
+
+![Figure 2 shows the correlations between COVID-19 cases and deaths with OSHA complaints volume after accounting for different lag times in days between the two ranging from -28 to 28 days](inst/figures/osha_covid_correlations_regional/five_panel_correlations.png)
 
 
 ## References 

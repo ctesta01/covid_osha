@@ -1,8 +1,9 @@
 
 # OSHA Complaints and COVID-19
 
-This repository stores the code which was used to render figures and analyses for our 
-*COVID-19: US Federal accountability for entry, spread, and inequities* manuscript. 
+This repository stores the code which was used to render figures and analyses
+for the *COVID-19: US Federal accountability for entry, spread, and
+inequities—lessons for the future* manuscript. 
 
 The figures are produced by the scripts in `inst/figures/`.  
 

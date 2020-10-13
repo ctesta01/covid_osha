@@ -5,6 +5,20 @@ This repository stores the code which was used to render figures and analyses
 for the *COVID-19: US Federal accountability for entry, spread, and
 inequities—lessons for the future* manuscript. 
 
+**Authors:** W. P. Hanage^1, C. Testa^2, J. T. Chen^2, L. Davis^3, E. Pechter^3, P. Seminario^4 M. Santillana^5 and N. Krieger^2
+
+1. Center for Communicable Disease Dynamics, Department of Epidemiology, Harvard T. H. Chan School of Public Health, Boston, MA.
+
+2. Department of Social and Behavioral Sciences, Harvard T.H. Chan School of Public Health, Boston, MA.
+
+3. Occupational Health Surveillance Program, Massachusetts Department of Public Health, Boston, MA.
+
+4. AFL-CIO (retired), Washington DC.
+
+5. Computational Health Informatics Program, Boston Children’s Hospital, Boston, MA
+
+---
+
 The figures are produced by the scripts in `inst/figures/`.  
 
 The R package contained herein standardizes the methods to load the OSHA complaints

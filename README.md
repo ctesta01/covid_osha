@@ -5,17 +5,17 @@ This repository stores the code which was used to render figures and analyses
 for the *COVID-19: US Federal accountability for entry, spread, and
 inequities—lessons for the future* manuscript. 
 
-**Authors:** W. P. Hanage<sup>1</sup>, C. Testa<sup>2</sup>, J. T. Chen<sup>2</sup>, L. Davis<sup>3</sup>, E. Pechter<sup>3</sup>, P. Seminario<sup>4</sup> M. Santillana<sup>5</sup> and N. Krieger<sup>2</sup>
+**Authors:** William P. Hanage<sup>1</sup>, Christian Testa<sup>2</sup>, Jarvis T. Chen<sup>2</sup>, Letitia Davis<sup>3</sup>, Elise Pechter<sup>3</sup>, Peg Seminario<sup>4</sup> Mauricio Santillana<sup>5</sup> and Nancy Krieger<sup>2</sup>
 
-1. Center for Communicable Disease Dynamics, Department of Epidemiology, Harvard T. H. Chan School of Public Health, Boston, MA.
+1. Center for Communicable Disease Dynamics, Department of Epidemiology, Harvard T. H. Chan School of Public Health, Boston, MA USA.
 
-2. Department of Social and Behavioral Sciences, Harvard T.H. Chan School of Public Health, Boston, MA.
+2. Department of Social and Behavioral Sciences, Harvard T.H. Chan School of Public Health, Boston, MA USA.
 
-3. Occupational Health Surveillance Program, Massachusetts Department of Public Health, Boston, MA.
+3. Consultant, Boston, MA USA.
 
-4. AFL-CIO (retired), Washington DC.
+4. AFL-CIO (retired), Washington DC USA.
 
-5. Computational Health Informatics Program, Boston Children’s Hospital, Boston, MA
+5. Computational Health Informatics Program, Boston Children’s Hospital, Boston, MA USA.
 
 ---
 

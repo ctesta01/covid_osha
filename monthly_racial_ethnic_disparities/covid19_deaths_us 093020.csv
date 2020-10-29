@@ -1,0 +1,583 @@
+"","data_as_of","start_date","end_date","state","age_group","race_and_hispanic_origin_group","covid-19_deaths","total_deaths","pneumonia_deaths","pneumonia_and_covid-19_deaths","influenza_deaths","pneumonia_influenza_or_covid-19_deaths","month","num_days"
+"1",2020-05-06,2020-02-01,2020-05-02,"United States","1-4 years","Hispanic or Latino",0,174,9,0,9,18,NA,91
+"2",2020-05-06,2020-02-01,2020-05-02,"United States","1-4 years","Non-Hispanic American Indian or Alaska Native",0,12,2,0,1,3,NA,91
+"3",2020-05-06,2020-02-01,2020-05-02,"United States","1-4 years","Non-Hispanic Asian",0,30,2,0,3,5,NA,91
+"4",2020-05-06,2020-02-01,2020-05-02,"United States","1-4 years","Non-Hispanic Black",1,201,9,1,4,13,NA,91
+"5",2020-05-06,2020-02-01,2020-05-02,"United States","1-4 years","Non-Hispanic More than one race",0,29,0,0,3,3,NA,91
+"6",2020-05-06,2020-02-01,2020-05-02,"United States","1-4 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",0,6,0,0,0,0,NA,91
+"7",2020-05-06,2020-02-01,2020-05-02,"United States","1-4 years","Non-Hispanic White",1,326,11,1,13,24,NA,91
+"8",2020-05-06,2020-02-01,2020-05-02,"United States","1-4 years","Unknown",0,2,0,0,0,0,NA,91
+"9",2020-05-06,2020-02-01,2020-05-02,"United States","15-24 years","Hispanic or Latino",19,1523,40,6,12,64,NA,91
+"10",2020-05-06,2020-02-01,2020-05-02,"United States","15-24 years","Non-Hispanic American Indian or Alaska Native",0,94,0,0,1,1,NA,91
+"11",2020-05-06,2020-02-01,2020-05-02,"United States","15-24 years","Non-Hispanic Asian",2,187,10,2,2,12,NA,91
+"12",2020-05-06,2020-02-01,2020-05-02,"United States","15-24 years","Non-Hispanic Black",14,1543,27,4,4,40,NA,91
+"13",2020-05-06,2020-02-01,2020-05-02,"United States","15-24 years","Non-Hispanic More than one race",1,137,1,0,0,2,NA,91
+"14",2020-05-06,2020-02-01,2020-05-02,"United States","15-24 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",0,16,0,0,0,0,NA,91
+"15",2020-05-06,2020-02-01,2020-05-02,"United States","15-24 years","Non-Hispanic White",11,3327,63,5,22,90,NA,91
+"16",2020-05-06,2020-02-01,2020-05-02,"United States","15-24 years","Unknown",1,16,2,1,0,2,NA,91
+"17",2020-05-06,2020-02-01,2020-05-02,"United States","25-34 years","Hispanic or Latino",115,2380,111,49,26,201,NA,91
+"18",2020-05-06,2020-02-01,2020-05-02,"United States","25-34 years","Non-Hispanic American Indian or Alaska Native",6,269,11,4,2,15,NA,91
+"19",2020-05-06,2020-02-01,2020-05-02,"United States","25-34 years","Non-Hispanic Asian",19,330,14,8,6,28,NA,91
+"20",2020-05-06,2020-02-01,2020-05-02,"United States","25-34 years","Non-Hispanic Black",111,3104,141,48,32,230,NA,91
+"21",2020-05-06,2020-02-01,2020-05-02,"United States","25-34 years","Non-Hispanic More than one race",1,188,4,0,0,5,NA,91
+"22",2020-05-06,2020-02-01,2020-05-02,"United States","25-34 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",3,43,3,3,0,3,NA,91
+"23",2020-05-06,2020-02-01,2020-05-02,"United States","25-34 years","Non-Hispanic White",52,8264,209,21,65,305,NA,91
+"24",2020-05-06,2020-02-01,2020-05-02,"United States","25-34 years","Unknown",10,51,3,1,2,13,NA,91
+"25",2020-05-06,2020-02-01,2020-05-02,"United States","35-44 years","Hispanic or Latino",344,3377,291,134,53,538,NA,91
+"26",2020-05-06,2020-02-01,2020-05-02,"United States","35-44 years","Non-Hispanic American Indian or Alaska Native",8,321,14,5,6,23,NA,91
+"27",2020-05-06,2020-02-01,2020-05-02,"United States","35-44 years","Non-Hispanic Asian",38,575,46,15,3,71,NA,91
+"28",2020-05-06,2020-02-01,2020-05-02,"United States","35-44 years","Non-Hispanic Black",252,4151,261,101,40,447,NA,91
+"29",2020-05-06,2020-02-01,2020-05-02,"United States","35-44 years","Non-Hispanic More than one race",3,221,6,1,2,10,NA,91
+"30",2020-05-06,2020-02-01,2020-05-02,"United States","35-44 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",0,46,1,0,2,3,NA,91
+"31",2020-05-06,2020-02-01,2020-05-02,"United States","35-44 years","Non-Hispanic White",127,12241,481,45,103,664,NA,91
+"32",2020-05-06,2020-02-01,2020-05-02,"United States","35-44 years","Unknown",24,89,9,6,1,28,NA,91
+"33",2020-05-06,2020-02-01,2020-05-02,"United States","45-54 years","Hispanic or Latino",765,5554,607,307,103,1132,NA,91
+"34",2020-05-06,2020-02-01,2020-05-02,"United States","45-54 years","Non-Hispanic American Indian or Alaska Native",20,478,43,10,6,59,NA,91
+"35",2020-05-06,2020-02-01,2020-05-02,"United States","45-54 years","Non-Hispanic Asian",152,1207,112,62,22,215,NA,91
+"36",2020-05-06,2020-02-01,2020-05-02,"United States","45-54 years","Non-Hispanic Black",718,7974,680,309,106,1163,NA,91
+"37",2020-05-06,2020-02-01,2020-05-02,"United States","45-54 years","Non-Hispanic More than one race",8,299,14,3,7,25,NA,91
+"38",2020-05-06,2020-02-01,2020-05-02,"United States","45-54 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",4,102,8,4,0,8,NA,91
+"39",2020-05-06,2020-02-01,2020-05-02,"United States","45-54 years","Non-Hispanic White",527,24860,1448,223,270,2014,NA,91
+"40",2020-05-06,2020-02-01,2020-05-02,"United States","45-54 years","Unknown",68,251,39,25,8,83,NA,91
+"41",2020-05-06,2020-02-01,2020-05-02,"United States","5-14 years","Hispanic or Latino",0,255,7,0,7,14,NA,91
+"42",2020-05-06,2020-02-01,2020-05-02,"United States","5-14 years","Non-Hispanic American Indian or Alaska Native",0,14,0,0,0,0,NA,91
+"43",2020-05-06,2020-02-01,2020-05-02,"United States","5-14 years","Non-Hispanic Asian",0,46,2,0,1,3,NA,91
+"44",2020-05-06,2020-02-01,2020-05-02,"United States","5-14 years","Non-Hispanic Black",3,237,6,0,7,16,NA,91
+"45",2020-05-06,2020-02-01,2020-05-02,"United States","5-14 years","Non-Hispanic More than one race",0,34,1,0,2,3,NA,91
+"46",2020-05-06,2020-02-01,2020-05-02,"United States","5-14 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",0,5,1,0,0,1,NA,91
+"47",2020-05-06,2020-02-01,2020-05-02,"United States","5-14 years","Non-Hispanic White",1,554,21,0,24,46,NA,91
+"48",2020-05-06,2020-02-01,2020-05-02,"United States","5-14 years","Unknown",0,1,0,0,0,0,NA,91
+"49",2020-05-06,2020-02-01,2020-05-02,"United States","55-64 years","Hispanic or Latino",1268,9644,1253,582,160,2043,NA,91
+"50",2020-05-06,2020-02-01,2020-05-02,"United States","55-64 years","Non-Hispanic American Indian or Alaska Native",36,814,98,24,10,120,NA,91
+"51",2020-05-06,2020-02-01,2020-05-02,"United States","55-64 years","Non-Hispanic Asian",418,2588,322,180,50,587,NA,91
+"52",2020-05-06,2020-02-01,2020-05-02,"United States","55-64 years","Non-Hispanic Black",1680,17551,1728,696,211,2852,NA,91
+"53",2020-05-06,2020-02-01,2020-05-02,"United States","55-64 years","Non-Hispanic More than one race",21,548,37,9,9,58,NA,91
+"54",2020-05-06,2020-02-01,2020-05-02,"United States","55-64 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",6,189,19,4,1,22,NA,91
+"55",2020-05-06,2020-02-01,2020-05-02,"United States","55-64 years","Non-Hispanic White",1807,65743,4943,821,653,6547,NA,91
+"56",2020-05-06,2020-02-01,2020-05-02,"United States","55-64 years","Unknown",186,639,121,74,14,235,NA,91
+"57",2020-05-06,2020-02-01,2020-05-02,"United States","65-74 years","Hispanic or Latino",1632,11854,1609,741,137,2583,NA,91
+"58",2020-05-06,2020-02-01,2020-05-02,"United States","65-74 years","Non-Hispanic American Indian or Alaska Native",45,917,97,24,17,135,NA,91
+"59",2020-05-06,2020-02-01,2020-05-02,"United States","65-74 years","Non-Hispanic Asian",629,4221,606,276,54,986,NA,91
+"60",2020-05-06,2020-02-01,2020-05-02,"United States","65-74 years","Non-Hispanic Black",2633,22308,2622,1186,207,4209,NA,91
+"61",2020-05-06,2020-02-01,2020-05-02,"United States","65-74 years","Non-Hispanic More than one race",27,615,54,12,2,70,NA,91
+"62",2020-05-06,2020-02-01,2020-05-02,"United States","65-74 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",12,206,19,6,1,26,NA,91
+"63",2020-05-06,2020-02-01,2020-05-02,"United States","65-74 years","Non-Hispanic White",4086,110681,9464,1817,871,12556,NA,91
+"64",2020-05-06,2020-02-01,2020-05-02,"United States","65-74 years","Unknown",295,925,175,102,16,370,NA,91
+"65",2020-05-06,2020-02-01,2020-05-02,"United States","75-84 years","Hispanic or Latino",1792,13758,1910,828,138,2961,NA,91
+"66",2020-05-06,2020-02-01,2020-05-02,"United States","75-84 years","Non-Hispanic American Indian or Alaska Native",32,806,91,20,8,111,NA,91
+"67",2020-05-06,2020-02-01,2020-05-02,"United States","75-84 years","Non-Hispanic Asian",666,5652,815,314,58,1205,NA,91
+"68",2020-05-06,2020-02-01,2020-05-02,"United States","75-84 years","Non-Hispanic Black",2512,20323,2507,1159,132,3942,NA,91
+"69",2020-05-06,2020-02-01,2020-05-02,"United States","75-84 years","Non-Hispanic More than one race",29,630,56,11,3,77,NA,91
+"70",2020-05-06,2020-02-01,2020-05-02,"United States","75-84 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",7,176,16,5,0,18,NA,91
+"71",2020-05-06,2020-02-01,2020-05-02,"United States","75-84 years","Non-Hispanic White",6687,148349,13858,3008,978,18480,NA,91
+"72",2020-05-06,2020-02-01,2020-05-02,"United States","75-84 years","Unknown",301,817,162,116,11,347,NA,91
+"73",2020-05-06,2020-02-01,2020-05-02,"United States","85 years and over","Hispanic or Latino",1371,15415,1885,623,100,2700,NA,91
+"74",2020-05-06,2020-02-01,2020-05-02,"United States","85 years and over","Non-Hispanic American Indian or Alaska Native",24,598,70,11,8,91,NA,91
+"75",2020-05-06,2020-02-01,2020-05-02,"United States","85 years and over","Non-Hispanic Asian",684,8081,1086,320,39,1481,NA,91
+"76",2020-05-06,2020-02-01,2020-05-02,"United States","85 years and over","Non-Hispanic Black",1717,17939,1910,768,106,2931,NA,91
+"77",2020-05-06,2020-02-01,2020-05-02,"United States","85 years and over","Non-Hispanic More than one race",28,532,50,14,3,67,NA,91
+"78",2020-05-06,2020-02-01,2020-05-02,"United States","85 years and over","Non-Hispanic Native Hawaiian or Other Pacific Islander",4,117,14,2,2,18,NA,91
+"79",2020-05-06,2020-02-01,2020-05-02,"United States","85 years and over","Non-Hispanic White",9747,199256,17750,4241,973,24174,NA,91
+"80",2020-05-06,2020-02-01,2020-05-02,"United States","85 years and over","Unknown",201,650,98,54,8,247,NA,91
+"81",2020-05-06,2020-02-01,2020-05-02,"United States","All Ages","Hispanic or Latino",7308,64852,7732,3271,746,12266,NA,91
+"82",2020-05-06,2020-02-01,2020-05-02,"United States","All Ages","Non-Hispanic American Indian or Alaska Native",171,4364,428,98,59,560,NA,91
+"83",2020-05-06,2020-02-01,2020-05-02,"United States","All Ages","Non-Hispanic Asian",2608,23048,3017,1177,239,4596,NA,91
+"84",2020-05-06,2020-02-01,2020-05-02,"United States","All Ages","Non-Hispanic Black",9641,96374,9899,4272,850,15852,NA,91
+"85",2020-05-06,2020-02-01,2020-05-02,"United States","All Ages","Non-Hispanic More than one race",118,3391,226,50,31,323,NA,91
+"86",2020-05-06,2020-02-01,2020-05-02,"United States","All Ages","Non-Hispanic Native Hawaiian or Other Pacific Islander",36,922,82,24,6,100,NA,91
+"87",2020-05-06,2020-02-01,2020-05-02,"United States","All Ages","Non-Hispanic White",23048,575212,48258,10182,3980,64920,NA,91
+"88",2020-05-06,2020-02-01,2020-05-02,"United States","All Ages","Total Deaths",44016,771637,70251,19453,5971,99942,NA,91
+"89",2020-05-06,2020-02-01,2020-05-02,"United States","All Ages","Unknown",1086,3474,609,379,60,1325,NA,91
+"90",2020-05-06,2020-02-01,2020-05-02,"United States","Under 1 year","Hispanic or Latino",2,918,10,1,1,12,NA,91
+"91",2020-05-06,2020-02-01,2020-05-02,"United States","Under 1 year","Non-Hispanic American Indian or Alaska Native",0,41,2,0,0,2,NA,91
+"92",2020-05-06,2020-02-01,2020-05-02,"United States","Under 1 year","Non-Hispanic Asian",0,131,2,0,1,3,NA,91
+"93",2020-05-06,2020-02-01,2020-05-02,"United States","Under 1 year","Non-Hispanic Black",0,1043,8,0,1,9,NA,91
+"94",2020-05-06,2020-02-01,2020-05-02,"United States","Under 1 year","Non-Hispanic More than one race",0,158,3,0,0,3,NA,91
+"95",2020-05-06,2020-02-01,2020-05-02,"United States","Under 1 year","Non-Hispanic Native Hawaiian or Other Pacific Islander",0,16,1,0,0,1,NA,91
+"96",2020-05-06,2020-02-01,2020-05-02,"United States","Under 1 year","Non-Hispanic White",2,1611,10,0,8,20,NA,91
+"97",2020-05-06,2020-02-01,2020-05-02,"United States","Under 1 year","Unknown",0,33,0,0,0,0,NA,91
+"98",2020-06-10,2020-05-02,2020-06-06,"United States","1-4 years","Hispanic or Latino",1,77,0,0,1,2,6,35
+"99",2020-06-10,2020-05-02,2020-06-06,"United States","1-4 years","Non-Hispanic American Indian or Alaska Native",0,7,0,0,0,0,6,35
+"100",2020-06-10,2020-05-02,2020-06-06,"United States","1-4 years","Non-Hispanic Asian",0,10,1,0,0,1,6,35
+"101",2020-06-10,2020-05-02,2020-06-06,"United States","1-4 years","Non-Hispanic Black",0,69,5,0,1,6,6,35
+"102",2020-06-10,2020-05-02,2020-06-06,"United States","1-4 years","Non-Hispanic More than one race",0,8,0,0,0,0,6,35
+"103",2020-06-10,2020-05-02,2020-06-06,"United States","1-4 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",0,2,0,0,0,0,6,35
+"104",2020-06-10,2020-05-02,2020-06-06,"United States","1-4 years","Non-Hispanic White",0,156,5,0,5,10,6,35
+"105",2020-06-10,2020-05-02,2020-06-06,"United States","1-4 years","Unknown",0,0,0,0,0,0,6,35
+"106",2020-06-10,2020-05-02,2020-06-06,"United States","15-24 years","Hispanic or Latino",25,659,22,10,0,37,6,35
+"107",2020-06-10,2020-05-02,2020-06-06,"United States","15-24 years","Non-Hispanic American Indian or Alaska Native",3,59,0,0,0,3,6,35
+"108",2020-06-10,2020-05-02,2020-06-06,"United States","15-24 years","Non-Hispanic Asian",1,65,1,0,0,2,6,35
+"109",2020-06-10,2020-05-02,2020-06-06,"United States","15-24 years","Non-Hispanic Black",24,898,20,7,1,37,6,35
+"110",2020-06-10,2020-05-02,2020-06-06,"United States","15-24 years","Non-Hispanic More than one race",1,60,0,0,0,1,6,35
+"111",2020-06-10,2020-05-02,2020-06-06,"United States","15-24 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",1,7,0,0,0,1,6,35
+"112",2020-06-10,2020-05-02,2020-06-06,"United States","15-24 years","Non-Hispanic White",12,1549,24,2,8,42,6,35
+"113",2020-06-10,2020-05-02,2020-06-06,"United States","15-24 years","Unknown",1,1,1,1,0,1,6,35
+"114",2020-06-10,2020-05-02,2020-06-06,"United States","25-34 years","Hispanic or Latino",126,1153,79,62,4,146,6,35
+"115",2020-06-10,2020-05-02,2020-06-06,"United States","25-34 years","Non-Hispanic American Indian or Alaska Native",19,137,11,8,0,22,6,35
+"116",2020-06-10,2020-05-02,2020-06-06,"United States","25-34 years","Non-Hispanic Asian",16,137,8,8,0,16,6,35
+"117",2020-06-10,2020-05-02,2020-06-06,"United States","25-34 years","Non-Hispanic Black",102,1564,71,40,3,136,6,35
+"118",2020-06-10,2020-05-02,2020-06-06,"United States","25-34 years","Non-Hispanic More than one race",3,103,2,1,0,4,6,35
+"119",2020-06-10,2020-05-02,2020-06-06,"United States","25-34 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",0,14,1,0,1,2,6,35
+"120",2020-06-10,2020-05-02,2020-06-06,"United States","25-34 years","Non-Hispanic White",58,3800,95,27,2,128,6,35
+"121",2020-06-10,2020-05-02,2020-06-06,"United States","25-34 years","Unknown",-1,11,1,1,0,-1,6,35
+"122",2020-06-10,2020-05-02,2020-06-06,"United States","35-44 years","Hispanic or Latino",397,1704,221,177,4,443,6,35
+"123",2020-06-10,2020-05-02,2020-06-06,"United States","35-44 years","Non-Hispanic American Indian or Alaska Native",22,157,17,14,2,27,6,35
+"124",2020-06-10,2020-05-02,2020-06-06,"United States","35-44 years","Non-Hispanic Asian",41,257,27,19,1,50,6,35
+"125",2020-06-10,2020-05-02,2020-06-06,"United States","35-44 years","Non-Hispanic Black",275,2148,200,126,4,354,6,35
+"126",2020-06-10,2020-05-02,2020-06-06,"United States","35-44 years","Non-Hispanic More than one race",2,110,2,1,0,3,6,35
+"127",2020-06-10,2020-05-02,2020-06-06,"United States","35-44 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",5,39,5,5,0,5,6,35
+"128",2020-06-10,2020-05-02,2020-06-06,"United States","35-44 years","Non-Hispanic White",118,5570,190,43,10,275,6,35
+"129",2020-06-10,2020-05-02,2020-06-06,"United States","35-44 years","Unknown",-7,22,1,2,0,-8,6,35
+"130",2020-06-10,2020-05-02,2020-06-06,"United States","45-54 years","Hispanic or Latino",933,2817,503,417,7,1024,6,35
+"131",2020-06-10,2020-05-02,2020-06-06,"United States","45-54 years","Non-Hispanic American Indian or Alaska Native",47,238,27,19,0,55,6,35
+"132",2020-06-10,2020-05-02,2020-06-06,"United States","45-54 years","Non-Hispanic Asian",122,534,70,54,2,137,6,35
+"133",2020-06-10,2020-05-02,2020-06-06,"United States","45-54 years","Non-Hispanic Black",730,3971,478,335,14,879,6,35
+"134",2020-06-10,2020-05-02,2020-06-06,"United States","45-54 years","Non-Hispanic More than one race",5,133,9,2,0,12,6,35
+"135",2020-06-10,2020-05-02,2020-06-06,"United States","45-54 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",5,63,5,2,1,9,6,35
+"136",2020-06-10,2020-05-02,2020-06-06,"United States","45-54 years","Non-Hispanic White",486,10437,621,225,14,897,6,35
+"137",2020-06-10,2020-05-02,2020-06-06,"United States","45-54 years","Unknown",-2,38,3,4,-4,-3,6,35
+"138",2020-06-10,2020-05-02,2020-06-06,"United States","5-14 years","Hispanic or Latino",3,106,4,2,0,5,6,35
+"139",2020-06-10,2020-05-02,2020-06-06,"United States","5-14 years","Non-Hispanic American Indian or Alaska Native",0,6,0,0,0,0,6,35
+"140",2020-06-10,2020-05-02,2020-06-06,"United States","5-14 years","Non-Hispanic Asian",1,18,1,0,0,2,6,35
+"141",2020-06-10,2020-05-02,2020-06-06,"United States","5-14 years","Non-Hispanic Black",4,110,6,0,3,13,6,35
+"142",2020-06-10,2020-05-02,2020-06-06,"United States","5-14 years","Non-Hispanic More than one race",0,13,1,0,0,1,6,35
+"143",2020-06-10,2020-05-02,2020-06-06,"United States","5-14 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",0,2,0,0,0,0,6,35
+"144",2020-06-10,2020-05-02,2020-06-06,"United States","5-14 years","Non-Hispanic White",1,237,5,1,2,7,6,35
+"145",2020-06-10,2020-05-02,2020-06-06,"United States","5-14 years","Unknown",0,0,0,0,0,0,6,35
+"146",2020-06-10,2020-05-02,2020-06-06,"United States","55-64 years","Hispanic or Latino",1677,4627,956,828,10,1810,6,35
+"147",2020-06-10,2020-05-02,2020-06-06,"United States","55-64 years","Non-Hispanic American Indian or Alaska Native",61,371,55,32,4,88,6,35
+"148",2020-06-10,2020-05-02,2020-06-06,"United States","55-64 years","Non-Hispanic Asian",276,1013,160,119,3,319,6,35
+"149",2020-06-10,2020-05-02,2020-06-06,"United States","55-64 years","Non-Hispanic Black",2056,8710,1295,937,18,2423,6,35
+"150",2020-06-10,2020-05-02,2020-06-06,"United States","55-64 years","Non-Hispanic More than one race",16,239,17,8,1,26,6,35
+"151",2020-06-10,2020-05-02,2020-06-06,"United States","55-64 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",9,77,7,4,0,12,6,35
+"152",2020-06-10,2020-05-02,2020-06-06,"United States","55-64 years","Non-Hispanic White",1921,26503,2135,879,49,3222,6,35
+"153",2020-06-10,2020-05-02,2020-06-06,"United States","55-64 years","Unknown",1,124,21,17,-8,5,6,35
+"154",2020-06-10,2020-05-02,2020-06-06,"United States","65-74 years","Hispanic or Latino",1995,5560,1246,1015,6,2228,6,35
+"155",2020-06-10,2020-05-02,2020-06-06,"United States","65-74 years","Non-Hispanic American Indian or Alaska Native",79,415,68,40,1,108,6,35
+"156",2020-06-10,2020-05-02,2020-06-06,"United States","65-74 years","Non-Hispanic Asian",549,1743,334,263,7,621,6,35
+"157",2020-06-10,2020-05-02,2020-06-06,"United States","65-74 years","Non-Hispanic Black",3177,11127,2002,1516,26,3681,6,35
+"158",2020-06-10,2020-05-02,2020-06-06,"United States","65-74 years","Non-Hispanic More than one race",24,260,31,12,1,44,6,35
+"159",2020-06-10,2020-05-02,2020-06-06,"United States","65-74 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",10,75,8,5,0,13,6,35
+"160",2020-06-10,2020-05-02,2020-06-06,"United States","65-74 years","Non-Hispanic White",4646,43342,4396,2075,52,7017,6,35
+"161",2020-06-10,2020-05-02,2020-06-06,"United States","65-74 years","Unknown",18,178,24,19,-7,23,6,35
+"162",2020-06-10,2020-05-02,2020-06-06,"United States","75-84 years","Hispanic or Latino",1797,5898,1196,916,14,2080,6,35
+"163",2020-06-10,2020-05-02,2020-06-06,"United States","75-84 years","Non-Hispanic American Indian or Alaska Native",79,369,60,37,0,102,6,35
+"164",2020-06-10,2020-05-02,2020-06-06,"United States","75-84 years","Non-Hispanic Asian",588,2233,410,277,5,723,6,35
+"165",2020-06-10,2020-05-02,2020-06-06,"United States","75-84 years","Non-Hispanic Black",3299,10171,2027,1582,18,3752,6,35
+"166",2020-06-10,2020-05-02,2020-06-06,"United States","75-84 years","Non-Hispanic More than one race",26,245,25,16,1,36,6,35
+"167",2020-06-10,2020-05-02,2020-06-06,"United States","75-84 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",3,64,2,0,0,5,6,35
+"168",2020-06-10,2020-05-02,2020-06-06,"United States","75-84 years","Non-Hispanic White",7700,57667,6123,3179,52,10689,6,35
+"169",2020-06-10,2020-05-02,2020-06-06,"United States","75-84 years","Unknown",2,43,1,7,-6,-4,6,35
+"170",2020-06-10,2020-05-02,2020-06-06,"United States","85 years and over","Hispanic or Latino",1489,6260,1002,713,7,1779,6,35
+"171",2020-06-10,2020-05-02,2020-06-06,"United States","85 years and over","Non-Hispanic American Indian or Alaska Native",62,267,43,29,1,77,6,35
+"172",2020-06-10,2020-05-02,2020-06-06,"United States","85 years and over","Non-Hispanic Asian",760,3112,498,317,5,942,6,35
+"173",2020-06-10,2020-05-02,2020-06-06,"United States","85 years and over","Non-Hispanic Black",2684,9130,1532,1163,10,3059,6,35
+"174",2020-06-10,2020-05-02,2020-06-06,"United States","85 years and over","Non-Hispanic More than one race",37,198,27,17,0,47,6,35
+"175",2020-06-10,2020-05-02,2020-06-06,"United States","85 years and over","Non-Hispanic Native Hawaiian or Other Pacific Islander",2,38,3,2,0,3,6,35
+"176",2020-06-10,2020-05-02,2020-06-06,"United States","85 years and over","Non-Hispanic White",12945,78433,8103,4522,64,16576,6,35
+"177",2020-06-10,2020-05-02,2020-06-06,"United States","85 years and over","Unknown",23,70,19,24,-3,18,6,35
+"178",2020-06-10,2020-05-02,2020-06-06,"United States","All Ages","Hispanic or Latino",8443,29235,5230,4140,53,9555,6,35
+"179",2020-06-10,2020-05-02,2020-06-06,"United States","All Ages","Non-Hispanic American Indian or Alaska Native",372,2039,281,179,8,482,6,35
+"180",2020-06-10,2020-05-02,2020-06-06,"United States","All Ages","Non-Hispanic Asian",2354,9162,1510,1057,23,2813,6,35
+"181",2020-06-10,2020-05-02,2020-06-06,"United States","All Ages","Non-Hispanic Black",12352,48418,7643,5706,100,14350,6,35
+"182",2020-06-10,2020-05-02,2020-06-06,"United States","All Ages","Non-Hispanic More than one race",114,1426,114,57,3,174,6,35
+"183",2020-06-10,2020-05-02,2020-06-06,"United States","All Ages","Non-Hispanic Native Hawaiian or Other Pacific Islander",35,387,31,18,2,50,6,35
+"184",2020-06-10,2020-05-02,2020-06-06,"United States","All Ages","Non-Hispanic White",27887,228440,21702,10953,258,38868,6,35
+"185",2020-06-10,2020-05-02,2020-06-06,"United States","All Ages","Total Deaths",51592,319619,36582,22185,419,66323,6,35
+"186",2020-06-10,2020-05-02,2020-06-06,"United States","All Ages","Unknown",35,512,71,75,-28,31,6,35
+"187",2020-06-10,2020-05-02,2020-06-06,"United States","Under 1 year","Hispanic or Latino",0,374,1,0,0,1,6,35
+"188",2020-06-10,2020-05-02,2020-06-06,"United States","Under 1 year","Non-Hispanic American Indian or Alaska Native",0,13,0,0,0,0,6,35
+"189",2020-06-10,2020-05-02,2020-06-06,"United States","Under 1 year","Non-Hispanic Asian",0,40,0,0,0,0,6,35
+"190",2020-06-10,2020-05-02,2020-06-06,"United States","Under 1 year","Non-Hispanic Black",1,520,7,0,2,10,6,35
+"191",2020-06-10,2020-05-02,2020-06-06,"United States","Under 1 year","Non-Hispanic More than one race",0,57,0,0,0,0,6,35
+"192",2020-06-10,2020-05-02,2020-06-06,"United States","Under 1 year","Non-Hispanic Native Hawaiian or Other Pacific Islander",0,6,0,0,0,0,6,35
+"193",2020-06-10,2020-05-02,2020-06-06,"United States","Under 1 year","Non-Hispanic White",0,746,5,0,0,5,6,35
+"194",2020-06-10,2020-05-02,2020-06-06,"United States","Under 1 year","Unknown",0,25,0,0,0,0,6,35
+"195",2020-07-08,2020-06-06,2020-07-04,"United States","1-4 years","Hispanic or Latino",1,54,0,0,0,1,7,28
+"196",2020-07-08,2020-06-06,2020-07-04,"United States","1-4 years","Non-Hispanic American Indian or Alaska Native",1,6,0,0,0,1,7,28
+"197",2020-07-08,2020-06-06,2020-07-04,"United States","1-4 years","Non-Hispanic Asian",0,8,0,0,0,0,7,28
+"198",2020-07-08,2020-06-06,2020-07-04,"United States","1-4 years","Non-Hispanic Black",0,63,2,0,0,2,7,28
+"199",2020-07-08,2020-06-06,2020-07-04,"United States","1-4 years","Non-Hispanic More than one race",0,7,0,0,0,0,7,28
+"200",2020-07-08,2020-06-06,2020-07-04,"United States","1-4 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",0,2,0,0,0,0,7,28
+"201",2020-07-08,2020-06-06,2020-07-04,"United States","1-4 years","Non-Hispanic White",2,110,2,0,0,4,7,28
+"202",2020-07-08,2020-06-06,2020-07-04,"United States","1-4 years","Unknown",0,2,0,0,0,0,7,28
+"203",2020-07-08,2020-06-06,2020-07-04,"United States","15-24 years","Hispanic or Latino",19,578,11,4,1,27,7,28
+"204",2020-07-08,2020-06-06,2020-07-04,"United States","15-24 years","Non-Hispanic American Indian or Alaska Native",4,50,6,4,0,6,7,28
+"205",2020-07-08,2020-06-06,2020-07-04,"United States","15-24 years","Non-Hispanic Asian",1,51,1,0,0,2,7,28
+"206",2020-07-08,2020-06-06,2020-07-04,"United States","15-24 years","Non-Hispanic Black",7,797,9,1,0,15,7,28
+"207",2020-07-08,2020-06-06,2020-07-04,"United States","15-24 years","Non-Hispanic More than one race",0,56,0,0,0,0,7,28
+"208",2020-07-08,2020-06-06,2020-07-04,"United States","15-24 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",1,7,1,1,0,1,7,28
+"209",2020-07-08,2020-06-06,2020-07-04,"United States","15-24 years","Non-Hispanic White",1,1272,18,0,0,19,7,28
+"210",2020-07-08,2020-06-06,2020-07-04,"United States","15-24 years","Unknown",0,6,0,0,0,0,7,28
+"211",2020-07-08,2020-06-06,2020-07-04,"United States","25-34 years","Hispanic or Latino",73,988,60,33,1,101,7,28
+"212",2020-07-08,2020-06-06,2020-07-04,"United States","25-34 years","Non-Hispanic American Indian or Alaska Native",12,132,10,6,0,16,7,28
+"213",2020-07-08,2020-06-06,2020-07-04,"United States","25-34 years","Non-Hispanic Asian",2,106,0,0,2,4,7,28
+"214",2020-07-08,2020-06-06,2020-07-04,"United States","25-34 years","Non-Hispanic Black",39,1359,40,19,2,62,7,28
+"215",2020-07-08,2020-06-06,2020-07-04,"United States","25-34 years","Non-Hispanic More than one race",0,98,2,0,0,2,7,28
+"216",2020-07-08,2020-06-06,2020-07-04,"United States","25-34 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",8,17,3,3,0,8,7,28
+"217",2020-07-08,2020-06-06,2020-07-04,"United States","25-34 years","Non-Hispanic White",23,3132,88,15,1,97,7,28
+"218",2020-07-08,2020-06-06,2020-07-04,"United States","25-34 years","Unknown",-2,4,-1,-1,0,-2,7,28
+"219",2020-07-08,2020-06-06,2020-07-04,"United States","35-44 years","Hispanic or Latino",193,1329,113,89,0,217,7,28
+"220",2020-07-08,2020-06-06,2020-07-04,"United States","35-44 years","Non-Hispanic American Indian or Alaska Native",17,153,14,8,0,23,7,28
+"221",2020-07-08,2020-06-06,2020-07-04,"United States","35-44 years","Non-Hispanic Asian",12,200,10,5,0,17,7,28
+"222",2020-07-08,2020-06-06,2020-07-04,"United States","35-44 years","Non-Hispanic Black",100,1691,104,45,2,161,7,28
+"223",2020-07-08,2020-06-06,2020-07-04,"United States","35-44 years","Non-Hispanic More than one race",2,59,2,1,0,3,7,28
+"224",2020-07-08,2020-06-06,2020-07-04,"United States","35-44 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",4,19,3,2,0,5,7,28
+"225",2020-07-08,2020-06-06,2020-07-04,"United States","35-44 years","Non-Hispanic White",49,4402,141,15,2,177,7,28
+"226",2020-07-08,2020-06-06,2020-07-04,"United States","35-44 years","Unknown",0,18,1,0,0,1,7,28
+"227",2020-07-08,2020-06-06,2020-07-04,"United States","45-54 years","Hispanic or Latino",449,2068,297,226,0,521,7,28
+"228",2020-07-08,2020-06-06,2020-07-04,"United States","45-54 years","Non-Hispanic American Indian or Alaska Native",50,224,42,29,0,63,7,28
+"229",2020-07-08,2020-06-06,2020-07-04,"United States","45-54 years","Non-Hispanic Asian",45,382,31,23,0,53,7,28
+"230",2020-07-08,2020-06-06,2020-07-04,"United States","45-54 years","Non-Hispanic Black",328,3019,253,145,2,437,7,28
+"231",2020-07-08,2020-06-06,2020-07-04,"United States","45-54 years","Non-Hispanic More than one race",3,101,5,1,0,7,7,28
+"232",2020-07-08,2020-06-06,2020-07-04,"United States","45-54 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",9,42,5,5,0,9,7,28
+"233",2020-07-08,2020-06-06,2020-07-04,"United States","45-54 years","Non-Hispanic White",188,8362,400,86,7,509,7,28
+"234",2020-07-08,2020-06-06,2020-07-04,"United States","45-54 years","Unknown",-10,25,-5,-7,0,-8,7,28
+"235",2020-07-08,2020-06-06,2020-07-04,"United States","5-14 years","Hispanic or Latino",1,86,4,0,0,5,7,28
+"236",2020-07-08,2020-06-06,2020-07-04,"United States","5-14 years","Non-Hispanic American Indian or Alaska Native",0,7,0,0,0,0,7,28
+"237",2020-07-08,2020-06-06,2020-07-04,"United States","5-14 years","Non-Hispanic Asian",0,14,0,0,0,0,7,28
+"238",2020-07-08,2020-06-06,2020-07-04,"United States","5-14 years","Non-Hispanic Black",0,110,2,0,0,2,7,28
+"239",2020-07-08,2020-06-06,2020-07-04,"United States","5-14 years","Non-Hispanic More than one race",0,8,0,0,0,0,7,28
+"240",2020-07-08,2020-06-06,2020-07-04,"United States","5-14 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",0,2,0,0,0,0,7,28
+"241",2020-07-08,2020-06-06,2020-07-04,"United States","5-14 years","Non-Hispanic White",0,216,7,0,0,7,7,28
+"242",2020-07-08,2020-06-06,2020-07-04,"United States","5-14 years","Unknown",0,0,0,0,0,0,7,28
+"243",2020-07-08,2020-06-06,2020-07-04,"United States","55-64 years","Hispanic or Latino",772,3187,555,407,3,922,7,28
+"244",2020-07-08,2020-06-06,2020-07-04,"United States","55-64 years","Non-Hispanic American Indian or Alaska Native",87,351,70,57,1,101,7,28
+"245",2020-07-08,2020-06-06,2020-07-04,"United States","55-64 years","Non-Hispanic Asian",85,668,66,32,0,119,7,28
+"246",2020-07-08,2020-06-06,2020-07-04,"United States","55-64 years","Non-Hispanic Black",722,5873,610,329,3,1005,7,28
+"247",2020-07-08,2020-06-06,2020-07-04,"United States","55-64 years","Non-Hispanic More than one race",5,173,7,1,0,11,7,28
+"248",2020-07-08,2020-06-06,2020-07-04,"United States","55-64 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",14,59,10,9,0,15,7,28
+"249",2020-07-08,2020-06-06,2020-07-04,"United States","55-64 years","Non-Hispanic White",684,20694,1233,298,15,1633,7,28
+"250",2020-07-08,2020-06-06,2020-07-04,"United States","55-64 years","Unknown",0,78,6,1,0,5,7,28
+"251",2020-07-08,2020-06-06,2020-07-04,"United States","65-74 years","Hispanic or Latino",877,3671,664,464,2,1078,7,28
+"252",2020-07-08,2020-06-06,2020-07-04,"United States","65-74 years","Non-Hispanic American Indian or Alaska Native",79,329,62,48,0,93,7,28
+"253",2020-07-08,2020-06-06,2020-07-04,"United States","65-74 years","Non-Hispanic Asian",144,1061,127,80,1,192,7,28
+"254",2020-07-08,2020-06-06,2020-07-04,"United States","65-74 years","Non-Hispanic Black",1202,7396,901,541,3,1565,7,28
+"255",2020-07-08,2020-06-06,2020-07-04,"United States","65-74 years","Non-Hispanic More than one race",11,198,19,4,0,26,7,28
+"256",2020-07-08,2020-06-06,2020-07-04,"United States","65-74 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",10,76,10,9,0,11,7,28
+"257",2020-07-08,2020-06-06,2020-07-04,"United States","65-74 years","Non-Hispanic White",1677,33240,2504,718,9,3470,7,28
+"258",2020-07-08,2020-06-06,2020-07-04,"United States","65-74 years","Unknown",9,116,21,8,0,22,7,28
+"259",2020-07-08,2020-06-06,2020-07-04,"United States","75-84 years","Hispanic or Latino",709,3928,599,370,1,939,7,28
+"260",2020-07-08,2020-06-06,2020-07-04,"United States","75-84 years","Non-Hispanic American Indian or Alaska Native",67,338,49,31,0,85,7,28
+"261",2020-07-08,2020-06-06,2020-07-04,"United States","75-84 years","Non-Hispanic Asian",178,1469,194,91,0,281,7,28
+"262",2020-07-08,2020-06-06,2020-07-04,"United States","75-84 years","Non-Hispanic Black",1125,6419,820,501,3,1445,7,28
+"263",2020-07-08,2020-06-06,2020-07-04,"United States","75-84 years","Non-Hispanic More than one race",15,195,18,7,0,26,7,28
+"264",2020-07-08,2020-06-06,2020-07-04,"United States","75-84 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",7,37,4,3,0,8,7,28
+"265",2020-07-08,2020-06-06,2020-07-04,"United States","75-84 years","Non-Hispanic White",2753,42676,3463,1075,20,5160,7,28
+"266",2020-07-08,2020-06-06,2020-07-04,"United States","75-84 years","Unknown",-5,60,12,5,0,2,7,28
+"267",2020-07-08,2020-06-06,2020-07-04,"United States","85 years and over","Hispanic or Latino",563,4270,530,294,3,801,7,28
+"268",2020-07-08,2020-06-06,2020-07-04,"United States","85 years and over","Non-Hispanic American Indian or Alaska Native",28,185,20,12,0,36,7,28
+"269",2020-07-08,2020-06-06,2020-07-04,"United States","85 years and over","Non-Hispanic Asian",200,1999,214,81,2,334,7,28
+"270",2020-07-08,2020-06-06,2020-07-04,"United States","85 years and over","Non-Hispanic Black",909,5743,623,352,4,1184,7,28
+"271",2020-07-08,2020-06-06,2020-07-04,"United States","85 years and over","Non-Hispanic More than one race",14,172,20,6,0,28,7,28
+"272",2020-07-08,2020-06-06,2020-07-04,"United States","85 years and over","Non-Hispanic Native Hawaiian or Other Pacific Islander",2,33,1,0,0,3,7,28
+"273",2020-07-08,2020-06-06,2020-07-04,"United States","85 years and over","Non-Hispanic White",4549,56068,3897,1392,11,7064,7,28
+"274",2020-07-08,2020-06-06,2020-07-04,"United States","85 years and over","Unknown",5,56,7,0,0,12,7,28
+"275",2020-07-08,2020-06-06,2020-07-04,"United States","All Ages","Hispanic or Latino",3658,20483,2835,1887,12,4616,7,28
+"276",2020-07-08,2020-06-06,2020-07-04,"United States","All Ages","Non-Hispanic American Indian or Alaska Native",345,1784,273,195,1,424,7,28
+"277",2020-07-08,2020-06-06,2020-07-04,"United States","All Ages","Non-Hispanic Asian",667,5990,643,312,5,1002,7,28
+"278",2020-07-08,2020-06-06,2020-07-04,"United States","All Ages","Non-Hispanic Black",4433,32882,3368,1934,19,5882,7,28
+"279",2020-07-08,2020-06-06,2020-07-04,"United States","All Ages","Non-Hispanic More than one race",50,1124,74,20,0,104,7,28
+"280",2020-07-08,2020-06-06,2020-07-04,"United States","All Ages","Non-Hispanic Native Hawaiian or Other Pacific Islander",56,297,37,32,0,61,7,28
+"281",2020-07-08,2020-06-06,2020-07-04,"United States","All Ages","Non-Hispanic White",9927,170763,11764,3599,65,18152,7,28
+"282",2020-07-08,2020-06-06,2020-07-04,"United States","All Ages","Total Deaths",19133,233702,19035,7985,102,30273,7,28
+"283",2020-07-08,2020-06-06,2020-07-04,"United States","All Ages","Unknown",-3,379,41,6,0,32,7,28
+"284",2020-07-08,2020-06-06,2020-07-04,"United States","Under 1 year","Hispanic or Latino",1,324,2,0,1,4,7,28
+"285",2020-07-08,2020-06-06,2020-07-04,"United States","Under 1 year","Non-Hispanic American Indian or Alaska Native",0,9,0,0,0,0,7,28
+"286",2020-07-08,2020-06-06,2020-07-04,"United States","Under 1 year","Non-Hispanic Asian",0,32,0,0,0,0,7,28
+"287",2020-07-08,2020-06-06,2020-07-04,"United States","Under 1 year","Non-Hispanic Black",1,412,4,1,0,4,7,28
+"288",2020-07-08,2020-06-06,2020-07-04,"United States","Under 1 year","Non-Hispanic More than one race",0,57,1,0,0,1,7,28
+"289",2020-07-08,2020-06-06,2020-07-04,"United States","Under 1 year","Non-Hispanic Native Hawaiian or Other Pacific Islander",1,3,0,0,0,1,7,28
+"290",2020-07-08,2020-06-06,2020-07-04,"United States","Under 1 year","Non-Hispanic White",1,591,11,0,0,12,7,28
+"291",2020-07-08,2020-06-06,2020-07-04,"United States","Under 1 year","Unknown",0,14,0,0,0,0,7,28
+"292",2020-08-05,2020-07-04,2020-08-01,"United States","1-4 years","Hispanic or Latino",3,68,1,0,0,4,8,28
+"293",2020-08-05,2020-07-04,2020-08-01,"United States","1-4 years","Non-Hispanic American Indian or Alaska Native",0,7,0,0,0,0,8,28
+"294",2020-08-05,2020-07-04,2020-08-01,"United States","1-4 years","Non-Hispanic Asian",0,12,0,0,0,0,8,28
+"295",2020-08-05,2020-07-04,2020-08-01,"United States","1-4 years","Non-Hispanic Black",0,79,1,0,0,1,8,28
+"296",2020-08-05,2020-07-04,2020-08-01,"United States","1-4 years","Non-Hispanic More than one race",0,14,1,0,1,2,8,28
+"297",2020-08-05,2020-07-04,2020-08-01,"United States","1-4 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",0,3,1,0,0,1,8,28
+"298",2020-08-05,2020-07-04,2020-08-01,"United States","1-4 years","Non-Hispanic White",0,147,3,0,0,3,8,28
+"299",2020-08-05,2020-07-04,2020-08-01,"United States","1-4 years","Unknown",0,-1,0,0,0,0,8,28
+"300",2020-08-05,2020-07-04,2020-08-01,"United States","15-24 years","Hispanic or Latino",35,737,19,13,0,41,8,28
+"301",2020-08-05,2020-07-04,2020-08-01,"United States","15-24 years","Non-Hispanic American Indian or Alaska Native",1,59,2,1,0,2,8,28
+"302",2020-08-05,2020-07-04,2020-08-01,"United States","15-24 years","Non-Hispanic Asian",3,75,1,1,0,3,8,28
+"303",2020-08-05,2020-07-04,2020-08-01,"United States","15-24 years","Non-Hispanic Black",24,938,21,11,0,34,8,28
+"304",2020-08-05,2020-07-04,2020-08-01,"United States","15-24 years","Non-Hispanic More than one race",1,65,1,0,0,2,8,28
+"305",2020-08-05,2020-07-04,2020-08-01,"United States","15-24 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",0,8,0,0,0,0,8,28
+"306",2020-08-05,2020-07-04,2020-08-01,"United States","15-24 years","Non-Hispanic White",13,1502,26,4,1,36,8,28
+"307",2020-08-05,2020-07-04,2020-08-01,"United States","15-24 years","Unknown",-1,11,-1,-1,0,-1,8,28
+"308",2020-08-05,2020-07-04,2020-08-01,"United States","25-34 years","Hispanic or Latino",136,1166,97,61,0,172,8,28
+"309",2020-08-05,2020-07-04,2020-08-01,"United States","25-34 years","Non-Hispanic American Indian or Alaska Native",26,188,16,13,0,29,8,28
+"310",2020-08-05,2020-07-04,2020-08-01,"United States","25-34 years","Non-Hispanic Asian",13,135,13,7,0,19,8,28
+"311",2020-08-05,2020-07-04,2020-08-01,"United States","25-34 years","Non-Hispanic Black",51,1595,63,24,0,90,8,28
+"312",2020-08-05,2020-07-04,2020-08-01,"United States","25-34 years","Non-Hispanic More than one race",4,107,4,3,0,5,8,28
+"313",2020-08-05,2020-07-04,2020-08-01,"United States","25-34 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",5,27,1,1,0,5,8,28
+"314",2020-08-05,2020-07-04,2020-08-01,"United States","25-34 years","Non-Hispanic White",43,3379,89,12,1,120,8,28
+"315",2020-08-05,2020-07-04,2020-08-01,"United States","25-34 years","Unknown",1,12,1,0,0,2,8,28
+"316",2020-08-05,2020-07-04,2020-08-01,"United States","35-44 years","Hispanic or Latino",368,1615,191,156,4,403,8,28
+"317",2020-08-05,2020-07-04,2020-08-01,"United States","35-44 years","Non-Hispanic American Indian or Alaska Native",29,196,20,12,0,37,8,28
+"318",2020-08-05,2020-07-04,2020-08-01,"United States","35-44 years","Non-Hispanic Asian",15,186,14,6,0,23,8,28
+"319",2020-08-05,2020-07-04,2020-08-01,"United States","35-44 years","Non-Hispanic Black",174,1916,124,65,1,234,8,28
+"320",2020-08-05,2020-07-04,2020-08-01,"United States","35-44 years","Non-Hispanic More than one race",3,95,4,1,0,6,8,28
+"321",2020-08-05,2020-07-04,2020-08-01,"United States","35-44 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",5,33,4,3,0,6,8,28
+"322",2020-08-05,2020-07-04,2020-08-01,"United States","35-44 years","Non-Hispanic White",105,5130,180,48,2,239,8,28
+"323",2020-08-05,2020-07-04,2020-08-01,"United States","35-44 years","Unknown",3,20,3,2,0,4,8,28
+"324",2020-08-05,2020-07-04,2020-08-01,"United States","45-54 years","Hispanic or Latino",818,2613,490,414,3,895,8,28
+"325",2020-08-05,2020-07-04,2020-08-01,"United States","45-54 years","Non-Hispanic American Indian or Alaska Native",56,269,45,39,0,62,8,28
+"326",2020-08-05,2020-07-04,2020-08-01,"United States","45-54 years","Non-Hispanic Asian",43,370,31,17,0,57,8,28
+"327",2020-08-05,2020-07-04,2020-08-01,"United States","45-54 years","Non-Hispanic Black",420,3258,302,170,0,552,8,28
+"328",2020-08-05,2020-07-04,2020-08-01,"United States","45-54 years","Non-Hispanic More than one race",11,133,10,7,1,15,8,28
+"329",2020-08-05,2020-07-04,2020-08-01,"United States","45-54 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",12,60,7,4,0,15,8,28
+"330",2020-08-05,2020-07-04,2020-08-01,"United States","45-54 years","Non-Hispanic White",283,9452,480,119,3,647,8,28
+"331",2020-08-05,2020-07-04,2020-08-01,"United States","45-54 years","Unknown",6,60,6,2,1,10,8,28
+"332",2020-08-05,2020-07-04,2020-08-01,"United States","5-14 years","Hispanic or Latino",3,108,3,1,0,5,8,28
+"333",2020-08-05,2020-07-04,2020-08-01,"United States","5-14 years","Non-Hispanic American Indian or Alaska Native",1,6,1,1,1,2,8,28
+"334",2020-08-05,2020-07-04,2020-08-01,"United States","5-14 years","Non-Hispanic Asian",0,12,1,0,0,1,8,28
+"335",2020-08-05,2020-07-04,2020-08-01,"United States","5-14 years","Non-Hispanic Black",1,148,3,1,1,4,8,28
+"336",2020-08-05,2020-07-04,2020-08-01,"United States","5-14 years","Non-Hispanic More than one race",0,19,0,0,0,0,8,28
+"337",2020-08-05,2020-07-04,2020-08-01,"United States","5-14 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",0,1,1,0,0,1,8,28
+"338",2020-08-05,2020-07-04,2020-08-01,"United States","5-14 years","Non-Hispanic White",1,235,9,0,2,12,8,28
+"339",2020-08-05,2020-07-04,2020-08-01,"United States","5-14 years","Unknown",0,1,0,0,0,0,8,28
+"340",2020-08-05,2020-07-04,2020-08-01,"United States","55-64 years","Hispanic or Latino",1474,4279,905,746,3,1634,8,28
+"341",2020-08-05,2020-07-04,2020-08-01,"United States","55-64 years","Non-Hispanic American Indian or Alaska Native",108,423,90,65,-1,132,8,28
+"342",2020-08-05,2020-07-04,2020-08-01,"United States","55-64 years","Non-Hispanic Asian",143,784,111,69,1,185,8,28
+"343",2020-08-05,2020-07-04,2020-08-01,"United States","55-64 years","Non-Hispanic Black",920,6742,706,429,3,1199,8,28
+"344",2020-08-05,2020-07-04,2020-08-01,"United States","55-64 years","Non-Hispanic More than one race",16,217,19,11,0,24,8,28
+"345",2020-08-05,2020-07-04,2020-08-01,"United States","55-64 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",21,75,21,16,0,26,8,28
+"346",2020-08-05,2020-07-04,2020-08-01,"United States","55-64 years","Non-Hispanic White",1076,23449,1520,482,8,2120,8,28
+"347",2020-08-05,2020-07-04,2020-08-01,"United States","55-64 years","Unknown",17,182,21,11,0,27,8,28
+"348",2020-08-05,2020-07-04,2020-08-01,"United States","65-74 years","Hispanic or Latino",1850,5258,1258,1030,3,2079,8,28
+"349",2020-08-05,2020-07-04,2020-08-01,"United States","65-74 years","Non-Hispanic American Indian or Alaska Native",102,427,91,66,0,127,8,28
+"350",2020-08-05,2020-07-04,2020-08-01,"United States","65-74 years","Non-Hispanic Asian",241,1298,207,122,0,326,8,28
+"351",2020-08-05,2020-07-04,2020-08-01,"United States","65-74 years","Non-Hispanic Black",1319,8220,958,584,7,1699,8,28
+"352",2020-08-05,2020-07-04,2020-08-01,"United States","65-74 years","Non-Hispanic More than one race",23,244,28,10,0,41,8,28
+"353",2020-08-05,2020-07-04,2020-08-01,"United States","65-74 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",22,92,17,13,0,26,8,28
+"354",2020-08-05,2020-07-04,2020-08-01,"United States","65-74 years","Non-Hispanic White",2409,37405,2979,1030,10,4367,8,28
+"355",2020-08-05,2020-07-04,2020-08-01,"United States","65-74 years","Unknown",38,168,19,17,0,40,8,28
+"356",2020-08-05,2020-07-04,2020-08-01,"United States","75-84 years","Hispanic or Latino",1595,5281,1162,912,1,1845,8,28
+"357",2020-08-05,2020-07-04,2020-08-01,"United States","75-84 years","Non-Hispanic American Indian or Alaska Native",73,335,53,41,0,85,8,28
+"358",2020-08-05,2020-07-04,2020-08-01,"United States","75-84 years","Non-Hispanic Asian",268,1739,232,133,0,367,8,28
+"359",2020-08-05,2020-07-04,2020-08-01,"United States","75-84 years","Non-Hispanic Black",1238,6995,955,574,4,1622,8,28
+"360",2020-08-05,2020-07-04,2020-08-01,"United States","75-84 years","Non-Hispanic More than one race",20,172,17,9,0,28,8,28
+"361",2020-08-05,2020-07-04,2020-08-01,"United States","75-84 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",8,64,9,5,0,12,8,28
+"362",2020-08-05,2020-07-04,2020-08-01,"United States","75-84 years","Non-Hispanic White",3891,48308,4133,1646,15,6390,8,28
+"363",2020-08-05,2020-07-04,2020-08-01,"United States","75-84 years","Unknown",33,124,26,21,0,38,8,28
+"364",2020-08-05,2020-07-04,2020-08-01,"United States","85 years and over","Hispanic or Latino",1234,5489,901,651,1,1484,8,28
+"365",2020-08-05,2020-07-04,2020-08-01,"United States","85 years and over","Non-Hispanic American Indian or Alaska Native",53,213,35,25,0,63,8,28
+"366",2020-08-05,2020-07-04,2020-08-01,"United States","85 years and over","Non-Hispanic Asian",314,2281,300,140,1,474,8,28
+"367",2020-08-05,2020-07-04,2020-08-01,"United States","85 years and over","Non-Hispanic Black",942,6118,640,372,2,1211,8,28
+"368",2020-08-05,2020-07-04,2020-08-01,"United States","85 years and over","Non-Hispanic More than one race",15,164,13,4,0,24,8,28
+"369",2020-08-05,2020-07-04,2020-08-01,"United States","85 years and over","Non-Hispanic Native Hawaiian or Other Pacific Islander",2,36,2,0,0,4,8,28
+"370",2020-08-05,2020-07-04,2020-08-01,"United States","85 years and over","Non-Hispanic White",5229,61402,4490,1812,19,7923,8,28
+"371",2020-08-05,2020-07-04,2020-08-01,"United States","85 years and over","Unknown",8,75,5,2,1,11,8,28
+"372",2020-08-05,2020-07-04,2020-08-01,"United States","All Ages","Hispanic or Latino",7520,26960,5030,3984,15,8569,8,28
+"373",2020-08-05,2020-07-04,2020-08-01,"United States","All Ages","Non-Hispanic American Indian or Alaska Native",449,2141,354,263,0,540,8,28
+"374",2020-08-05,2020-07-04,2020-08-01,"United States","All Ages","Non-Hispanic Asian",1040,6943,910,495,2,1455,8,28
+"375",2020-08-05,2020-07-04,2020-08-01,"United States","All Ages","Non-Hispanic Black",5090,36515,3779,2230,18,6653,8,28
+"376",2020-08-05,2020-07-04,2020-08-01,"United States","All Ages","Non-Hispanic More than one race",93,1295,98,45,2,148,8,28
+"377",2020-08-05,2020-07-04,2020-08-01,"United States","All Ages","Non-Hispanic Native Hawaiian or Other Pacific Islander",75,406,64,42,0,97,8,28
+"378",2020-08-05,2020-07-04,2020-08-01,"United States","All Ages","Non-Hispanic White",13051,191054,13912,5153,61,21861,8,28
+"379",2020-08-05,2020-07-04,2020-08-01,"United States","All Ages","Total Deaths",27423,265986,24227,12266,100,39454,8,28
+"380",2020-08-05,2020-07-04,2020-08-01,"United States","All Ages","Unknown",105,672,80,54,2,131,8,28
+"381",2020-08-05,2020-07-04,2020-08-01,"United States","Under 1 year","Hispanic or Latino",4,346,3,0,0,7,8,28
+"382",2020-08-05,2020-07-04,2020-08-01,"United States","Under 1 year","Non-Hispanic American Indian or Alaska Native",0,18,1,0,0,1,8,28
+"383",2020-08-05,2020-07-04,2020-08-01,"United States","Under 1 year","Non-Hispanic Asian",0,51,0,0,0,0,8,28
+"384",2020-08-05,2020-07-04,2020-08-01,"United States","Under 1 year","Non-Hispanic Black",1,506,6,0,0,7,8,28
+"385",2020-08-05,2020-07-04,2020-08-01,"United States","Under 1 year","Non-Hispanic More than one race",0,65,1,0,0,1,8,28
+"386",2020-08-05,2020-07-04,2020-08-01,"United States","Under 1 year","Non-Hispanic Native Hawaiian or Other Pacific Islander",0,7,1,0,0,1,8,28
+"387",2020-08-05,2020-07-04,2020-08-01,"United States","Under 1 year","Non-Hispanic White",1,645,3,0,0,4,8,28
+"388",2020-08-05,2020-07-04,2020-08-01,"United States","Under 1 year","Unknown",0,20,0,0,0,0,8,28
+"389",2020-09-09,2020-08-01,2020-09-05,"United States","1-4 years","Hispanic or Latino",0,63,2,0,0,2,9,35
+"390",2020-09-09,2020-08-01,2020-09-05,"United States","1-4 years","Non-Hispanic American Indian or Alaska Native",0,3,1,0,0,1,9,35
+"391",2020-09-09,2020-08-01,2020-09-05,"United States","1-4 years","Non-Hispanic Asian",0,8,0,0,0,0,9,35
+"392",2020-09-09,2020-08-01,2020-09-05,"United States","1-4 years","Non-Hispanic Black",1,87,5,0,0,6,9,35
+"393",2020-09-09,2020-08-01,2020-09-05,"United States","1-4 years","Non-Hispanic More than one race",1,12,0,0,0,1,9,35
+"394",2020-09-09,2020-08-01,2020-09-05,"United States","1-4 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",0,0,0,0,0,0,9,35
+"395",2020-09-09,2020-08-01,2020-09-05,"United States","1-4 years","Non-Hispanic White",2,157,7,0,1,10,9,35
+"396",2020-09-09,2020-08-01,2020-09-05,"United States","1-4 years","Unknown",0,1,0,0,0,0,9,35
+"397",2020-09-09,2020-08-01,2020-09-05,"United States","15-24 years","Hispanic or Latino",41,831,23,12,0,52,9,35
+"398",2020-09-09,2020-08-01,2020-09-05,"United States","15-24 years","Non-Hispanic American Indian or Alaska Native",1,45,1,1,0,1,9,35
+"399",2020-09-09,2020-08-01,2020-09-05,"United States","15-24 years","Non-Hispanic Asian",1,76,1,0,0,2,9,35
+"400",2020-09-09,2020-08-01,2020-09-05,"United States","15-24 years","Non-Hispanic Black",23,981,17,9,1,32,9,35
+"401",2020-09-09,2020-08-01,2020-09-05,"United States","15-24 years","Non-Hispanic More than one race",1,67,2,0,0,3,9,35
+"402",2020-09-09,2020-08-01,2020-09-05,"United States","15-24 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",2,14,1,1,0,2,9,35
+"403",2020-09-09,2020-08-01,2020-09-05,"United States","15-24 years","Non-Hispanic White",21,1625,31,11,0,41,9,35
+"404",2020-09-09,2020-08-01,2020-09-05,"United States","15-24 years","Unknown",0,6,0,0,0,0,9,35
+"405",2020-09-09,2020-08-01,2020-09-05,"United States","25-34 years","Hispanic or Latino",135,1321,94,64,1,166,9,35
+"406",2020-09-09,2020-08-01,2020-09-05,"United States","25-34 years","Non-Hispanic American Indian or Alaska Native",10,151,8,7,0,11,9,35
+"407",2020-09-09,2020-08-01,2020-09-05,"United States","25-34 years","Non-Hispanic Asian",5,147,6,2,0,9,9,35
+"408",2020-09-09,2020-08-01,2020-09-05,"United States","25-34 years","Non-Hispanic Black",94,1764,72,41,0,125,9,35
+"409",2020-09-09,2020-08-01,2020-09-05,"United States","25-34 years","Non-Hispanic More than one race",1,104,2,0,0,3,9,35
+"410",2020-09-09,2020-08-01,2020-09-05,"United States","25-34 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",1,22,1,0,0,2,9,35
+"411",2020-09-09,2020-08-01,2020-09-05,"United States","25-34 years","Non-Hispanic White",41,3850,81,15,0,107,9,35
+"412",2020-09-09,2020-08-01,2020-09-05,"United States","25-34 years","Unknown",-1,18,-1,0,0,-2,9,35
+"413",2020-09-09,2020-08-01,2020-09-05,"United States","35-44 years","Hispanic or Latino",445,1898,264,221,1,489,9,35
+"414",2020-09-09,2020-08-01,2020-09-05,"United States","35-44 years","Non-Hispanic American Indian or Alaska Native",27,221,22,13,0,36,9,35
+"415",2020-09-09,2020-08-01,2020-09-05,"United States","35-44 years","Non-Hispanic Asian",20,224,17,12,0,25,9,35
+"416",2020-09-09,2020-08-01,2020-09-05,"United States","35-44 years","Non-Hispanic Black",201,2161,172,97,0,276,9,35
+"417",2020-09-09,2020-08-01,2020-09-05,"United States","35-44 years","Non-Hispanic More than one race",4,105,6,4,0,6,9,35
+"418",2020-09-09,2020-08-01,2020-09-05,"United States","35-44 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",7,32,6,4,0,9,9,35
+"419",2020-09-09,2020-08-01,2020-09-05,"United States","35-44 years","Non-Hispanic White",111,5762,189,45,4,259,9,35
+"420",2020-09-09,2020-08-01,2020-09-05,"United States","35-44 years","Unknown",-1,30,1,-1,0,1,9,35
+"421",2020-09-09,2020-08-01,2020-09-05,"United States","45-54 years","Hispanic or Latino",1029,3098,643,553,3,1121,9,35
+"422",2020-09-09,2020-08-01,2020-09-05,"United States","45-54 years","Non-Hispanic American Indian or Alaska Native",39,276,42,23,0,58,9,35
+"423",2020-09-09,2020-08-01,2020-09-05,"United States","45-54 years","Non-Hispanic Asian",46,451,35,21,0,60,9,35
+"424",2020-09-09,2020-08-01,2020-09-05,"United States","45-54 years","Non-Hispanic Black",477,3610,347,221,0,603,9,35
+"425",2020-09-09,2020-08-01,2020-09-05,"United States","45-54 years","Non-Hispanic More than one race",8,137,7,3,0,12,9,35
+"426",2020-09-09,2020-08-01,2020-09-05,"United States","45-54 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",11,57,5,3,0,13,9,35
+"427",2020-09-09,2020-08-01,2020-09-05,"United States","45-54 years","Non-Hispanic White",410,10809,595,185,1,821,9,35
+"428",2020-09-09,2020-08-01,2020-09-05,"United States","45-54 years","Unknown",5,71,7,2,0,10,9,35
+"429",2020-09-09,2020-08-01,2020-09-05,"United States","5-14 years","Hispanic or Latino",7,95,2,2,0,7,9,35
+"430",2020-09-09,2020-08-01,2020-09-05,"United States","5-14 years","Non-Hispanic American Indian or Alaska Native",0,9,0,0,0,0,9,35
+"431",2020-09-09,2020-08-01,2020-09-05,"United States","5-14 years","Non-Hispanic Asian",0,13,0,0,0,0,9,35
+"432",2020-09-09,2020-08-01,2020-09-05,"United States","5-14 years","Non-Hispanic Black",2,124,3,0,1,6,9,35
+"433",2020-09-09,2020-08-01,2020-09-05,"United States","5-14 years","Non-Hispanic More than one race",0,15,0,0,0,0,9,35
+"434",2020-09-09,2020-08-01,2020-09-05,"United States","5-14 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",0,3,1,0,0,1,9,35
+"435",2020-09-09,2020-08-01,2020-09-05,"United States","5-14 years","Non-Hispanic White",0,240,2,0,1,3,9,35
+"436",2020-09-09,2020-08-01,2020-09-05,"United States","5-14 years","Unknown",0,0,0,0,0,0,9,35
+"437",2020-09-09,2020-08-01,2020-09-05,"United States","55-64 years","Hispanic or Latino",1894,5009,1308,1123,2,2080,9,35
+"438",2020-09-09,2020-08-01,2020-09-05,"United States","55-64 years","Non-Hispanic American Indian or Alaska Native",76,444,64,34,2,108,9,35
+"439",2020-09-09,2020-08-01,2020-09-05,"United States","55-64 years","Non-Hispanic Asian",105,817,103,66,0,142,9,35
+"440",2020-09-09,2020-08-01,2020-09-05,"United States","55-64 years","Non-Hispanic Black",1120,7531,896,573,2,1445,9,35
+"441",2020-09-09,2020-08-01,2020-09-05,"United States","55-64 years","Non-Hispanic More than one race",16,206,17,10,0,23,9,35
+"442",2020-09-09,2020-08-01,2020-09-05,"United States","55-64 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",22,82,14,11,0,25,9,35
+"443",2020-09-09,2020-08-01,2020-09-05,"United States","55-64 years","Non-Hispanic White",1432,26416,1926,698,10,2668,9,35
+"444",2020-09-09,2020-08-01,2020-09-05,"United States","55-64 years","Unknown",6,145,4,2,0,8,9,35
+"445",2020-09-09,2020-08-01,2020-09-05,"United States","65-74 years","Hispanic or Latino",2414,6125,1691,1435,3,2671,9,35
+"446",2020-09-09,2020-08-01,2020-09-05,"United States","65-74 years","Non-Hispanic American Indian or Alaska Native",118,423,97,69,0,146,9,35
+"447",2020-09-09,2020-08-01,2020-09-05,"United States","65-74 years","Non-Hispanic Asian",231,1421,211,130,0,312,9,35
+"448",2020-09-09,2020-08-01,2020-09-05,"United States","65-74 years","Non-Hispanic Black",1707,9475,1247,831,0,2123,9,35
+"449",2020-09-09,2020-08-01,2020-09-05,"United States","65-74 years","Non-Hispanic More than one race",32,271,35,22,0,45,9,35
+"450",2020-09-09,2020-08-01,2020-09-05,"United States","65-74 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",19,92,16,10,0,25,9,35
+"451",2020-09-09,2020-08-01,2020-09-05,"United States","65-74 years","Non-Hispanic White",3270,43296,3801,1603,14,5481,9,35
+"452",2020-09-09,2020-08-01,2020-09-05,"United States","65-74 years","Unknown",23,224,24,12,1,36,9,35
+"453",2020-09-09,2020-08-01,2020-09-05,"United States","75-84 years","Hispanic or Latino",2100,6352,1577,1290,1,2388,9,35
+"454",2020-09-09,2020-08-01,2020-09-05,"United States","75-84 years","Non-Hispanic American Indian or Alaska Native",81,382,68,45,0,104,9,35
+"455",2020-09-09,2020-08-01,2020-09-05,"United States","75-84 years","Non-Hispanic Asian",243,1894,250,128,0,365,9,35
+"456",2020-09-09,2020-08-01,2020-09-05,"United States","75-84 years","Non-Hispanic Black",1436,7920,1088,701,2,1823,9,35
+"457",2020-09-09,2020-08-01,2020-09-05,"United States","75-84 years","Non-Hispanic More than one race",31,239,25,14,0,42,9,35
+"458",2020-09-09,2020-08-01,2020-09-05,"United States","75-84 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",9,69,10,7,0,12,9,35
+"459",2020-09-09,2020-08-01,2020-09-05,"United States","75-84 years","Non-Hispanic White",5073,56143,5153,2328,10,7906,9,35
+"460",2020-09-09,2020-08-01,2020-09-05,"United States","75-84 years","Unknown",19,137,13,9,0,23,9,35
+"461",2020-09-09,2020-08-01,2020-09-05,"United States","85 years and over","Hispanic or Latino",1548,6123,1184,896,1,1836,9,35
+"462",2020-09-09,2020-08-01,2020-09-05,"United States","85 years and over","Non-Hispanic American Indian or Alaska Native",49,262,38,22,0,65,9,35
+"463",2020-09-09,2020-08-01,2020-09-05,"United States","85 years and over","Non-Hispanic Asian",263,2521,324,151,1,436,9,35
+"464",2020-09-09,2020-08-01,2020-09-05,"United States","85 years and over","Non-Hispanic Black",1077,6916,779,470,4,1389,9,35
+"465",2020-09-09,2020-08-01,2020-09-05,"United States","85 years and over","Non-Hispanic More than one race",18,217,17,7,0,28,9,35
+"466",2020-09-09,2020-08-01,2020-09-05,"United States","85 years and over","Non-Hispanic Native Hawaiian or Other Pacific Islander",5,46,5,2,0,8,9,35
+"467",2020-09-09,2020-08-01,2020-09-05,"United States","85 years and over","Non-Hispanic White",6025,69742,5268,2283,10,9016,9,35
+"468",2020-09-09,2020-08-01,2020-09-05,"United States","85 years and over","Unknown",8,88,10,3,0,16,9,35
+"469",2020-09-09,2020-08-01,2020-09-05,"United States","All Ages","Hispanic or Latino",9615,31295,6792,5597,12,10817,9,35
+"470",2020-09-09,2020-08-01,2020-09-05,"United States","All Ages","Non-Hispanic American Indian or Alaska Native",401,2232,341,214,2,530,9,35
+"471",2020-09-09,2020-08-01,2020-09-05,"United States","All Ages","Non-Hispanic Asian",915,7611,947,510,1,1352,9,35
+"472",2020-09-09,2020-08-01,2020-09-05,"United States","All Ages","Non-Hispanic Black",6139,41033,4633,2943,11,7837,9,35
+"473",2020-09-09,2020-08-01,2020-09-05,"United States","All Ages","Non-Hispanic More than one race",112,1446,111,60,0,163,9,35
+"474",2020-09-09,2020-08-01,2020-09-05,"United States","All Ages","Non-Hispanic Native Hawaiian or Other Pacific Islander",76,420,59,38,0,97,9,35
+"475",2020-09-09,2020-08-01,2020-09-05,"United States","All Ages","Non-Hispanic White",16385,218730,17059,7168,52,26319,9,35
+"476",2020-09-09,2020-08-01,2020-09-05,"United States","All Ages","Total Deaths",33702,303503,30000,16557,79,47207,9,35
+"477",2020-09-09,2020-08-01,2020-09-05,"United States","All Ages","Unknown",59,736,58,27,1,92,9,35
+"478",2020-09-09,2020-08-01,2020-09-05,"United States","Under 1 year","Hispanic or Latino",2,380,4,1,0,5,9,35
+"479",2020-09-09,2020-08-01,2020-09-05,"United States","Under 1 year","Non-Hispanic American Indian or Alaska Native",0,16,0,0,0,0,9,35
+"480",2020-09-09,2020-08-01,2020-09-05,"United States","Under 1 year","Non-Hispanic Asian",1,39,0,0,0,1,9,35
+"481",2020-09-09,2020-08-01,2020-09-05,"United States","Under 1 year","Non-Hispanic Black",1,464,7,0,1,9,9,35
+"482",2020-09-09,2020-08-01,2020-09-05,"United States","Under 1 year","Non-Hispanic More than one race",0,73,0,0,0,0,9,35
+"483",2020-09-09,2020-08-01,2020-09-05,"United States","Under 1 year","Non-Hispanic Native Hawaiian or Other Pacific Islander",0,3,0,0,0,0,9,35
+"484",2020-09-09,2020-08-01,2020-09-05,"United States","Under 1 year","Non-Hispanic White",0,690,6,0,1,7,9,35
+"485",2020-09-09,2020-08-01,2020-09-05,"United States","Under 1 year","Unknown",0,16,0,0,0,0,9,35
+"486",2020-09-23,2020-09-05,2020-09-19,"United States","1-4 years","Hispanic or Latino",0,31,0,0,0,-27,NA,14
+"487",2020-09-23,2020-09-05,2020-09-19,"United States","1-4 years","Non-Hispanic American Indian or Alaska Native",0,2,0,0,0,-5,NA,14
+"488",2020-09-23,2020-09-05,2020-09-19,"United States","1-4 years","Non-Hispanic Asian",0,4,0,0,0,-6,NA,14
+"489",2020-09-23,2020-09-05,2020-09-19,"United States","1-4 years","Non-Hispanic Black",1,29,0,0,0,-27,NA,14
+"490",2020-09-23,2020-09-05,2020-09-19,"United States","1-4 years","Non-Hispanic More than one race",0,3,0,0,0,-6,NA,14
+"491",2020-09-23,2020-09-05,2020-09-19,"United States","1-4 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",0,0,1,0,0,-1,NA,14
+"492",2020-09-23,2020-09-05,2020-09-19,"United States","1-4 years","Non-Hispanic White",0,67,2,0,0,-50,NA,14
+"493",2020-09-23,2020-09-05,2020-09-19,"United States","1-4 years","Unknown",0,1,0,0,0,0,NA,14
+"494",2020-09-23,2020-09-05,2020-09-19,"United States","15-24 years","Hispanic or Latino",18,400,15,6,0,-170,NA,14
+"495",2020-09-23,2020-09-05,2020-09-19,"United States","15-24 years","Non-Hispanic American Indian or Alaska Native",0,25,0,0,0,-7,NA,14
+"496",2020-09-23,2020-09-05,2020-09-19,"United States","15-24 years","Non-Hispanic Asian",2,46,2,2,0,-16,NA,14
+"497",2020-09-23,2020-09-05,2020-09-19,"United States","15-24 years","Non-Hispanic Black",17,449,10,7,0,-119,NA,14
+"498",2020-09-23,2020-09-05,2020-09-19,"United States","15-24 years","Non-Hispanic More than one race",0,33,0,0,0,-8,NA,14
+"499",2020-09-23,2020-09-05,2020-09-19,"United States","15-24 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",0,2,0,0,0,-2,NA,14
+"500",2020-09-23,2020-09-05,2020-09-19,"United States","15-24 years","Non-Hispanic White",0,647,8,1,0,-205,NA,14
+"501",2020-09-23,2020-09-05,2020-09-19,"United States","15-24 years","Unknown",1,15,1,1,0,0,NA,14
+"502",2020-09-23,2020-09-05,2020-09-19,"United States","25-34 years","Hispanic or Latino",47,594,38,21,0,-496,NA,14
+"503",2020-09-23,2020-09-05,2020-09-19,"United States","25-34 years","Non-Hispanic American Indian or Alaska Native",6,88,5,4,0,-51,NA,14
+"504",2020-09-23,2020-09-05,2020-09-19,"United States","25-34 years","Non-Hispanic Asian",2,60,0,0,0,-51,NA,14
+"505",2020-09-23,2020-09-05,2020-09-19,"United States","25-34 years","Non-Hispanic Black",21,667,18,11,0,-460,NA,14
+"506",2020-09-23,2020-09-05,2020-09-19,"United States","25-34 years","Non-Hispanic More than one race",0,56,1,0,0,-15,NA,14
+"507",2020-09-23,2020-09-05,2020-09-19,"United States","25-34 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",2,6,1,1,0,-12,NA,14
+"508",2020-09-23,2020-09-05,2020-09-19,"United States","25-34 years","Non-Hispanic White",15,1638,31,6,0,-661,NA,14
+"509",2020-09-23,2020-09-05,2020-09-19,"United States","25-34 years","Unknown",4,42,3,2,0,-7,NA,14
+"510",2020-09-23,2020-09-05,2020-09-19,"United States","35-44 years","Hispanic or Latino",150,776,108,85,0,-1228,NA,14
+"511",2020-09-23,2020-09-05,2020-09-19,"United States","35-44 years","Non-Hispanic American Indian or Alaska Native",8,90,14,4,0,-90,NA,14
+"512",2020-09-23,2020-09-05,2020-09-19,"United States","35-44 years","Non-Hispanic Asian",13,90,8,4,-1,-125,NA,14
+"513",2020-09-23,2020-09-05,2020-09-19,"United States","35-44 years","Non-Hispanic Black",47,880,63,31,2,-1007,NA,14
+"514",2020-09-23,2020-09-05,2020-09-19,"United States","35-44 years","Non-Hispanic More than one race",2,41,2,1,0,-19,NA,14
+"515",2020-09-23,2020-09-05,2020-09-19,"United States","35-44 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",3,11,0,0,0,-14,NA,14
+"516",2020-09-23,2020-09-05,2020-09-19,"United States","35-44 years","Non-Hispanic White",31,2360,66,19,1,-1399,NA,14
+"517",2020-09-23,2020-09-05,2020-09-19,"United States","35-44 years","Unknown",13,81,5,2,1,-15,NA,14
+"518",2020-09-23,2020-09-05,2020-09-19,"United States","45-54 years","Hispanic or Latino",380,1244,263,221,0,-2555,NA,14
+"519",2020-09-23,2020-09-05,2020-09-19,"United States","45-54 years","Non-Hispanic American Indian or Alaska Native",22,134,17,12,0,-165,NA,14
+"520",2020-09-23,2020-09-05,2020-09-19,"United States","45-54 years","Non-Hispanic Asian",9,173,9,7,0,-338,NA,14
+"521",2020-09-23,2020-09-05,2020-09-19,"United States","45-54 years","Non-Hispanic Black",114,1395,112,63,-2,-2391,NA,14
+"522",2020-09-23,2020-09-05,2020-09-19,"United States","45-54 years","Non-Hispanic More than one race",0,50,3,0,0,-55,NA,14
+"523",2020-09-23,2020-09-05,2020-09-19,"United States","45-54 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",5,18,7,3,0,-33,NA,14
+"524",2020-09-23,2020-09-05,2020-09-19,"United States","45-54 years","Non-Hispanic White",153,4455,239,82,0,-3968,NA,14
+"525",2020-09-23,2020-09-05,2020-09-19,"United States","45-54 years","Unknown",50,156,28,18,2,-48,NA,14
+"526",2020-09-23,2020-09-05,2020-09-19,"United States","5-14 years","Hispanic or Latino",0,62,2,0,0,-31,NA,14
+"527",2020-09-23,2020-09-05,2020-09-19,"United States","5-14 years","Non-Hispanic American Indian or Alaska Native",0,3,0,0,0,-1,NA,14
+"528",2020-09-23,2020-09-05,2020-09-19,"United States","5-14 years","Non-Hispanic Asian",1,7,0,0,0,-6,NA,14
+"529",2020-09-23,2020-09-05,2020-09-19,"United States","5-14 years","Non-Hispanic Black",0,49,2,0,0,-40,NA,14
+"530",2020-09-23,2020-09-05,2020-09-19,"United States","5-14 years","Non-Hispanic More than one race",0,8,1,0,0,-4,NA,14
+"531",2020-09-23,2020-09-05,2020-09-19,"United States","5-14 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",0,0,0,0,0,-3,NA,14
+"532",2020-09-23,2020-09-05,2020-09-19,"United States","5-14 years","Non-Hispanic White",1,113,3,0,0,-74,NA,14
+"533",2020-09-23,2020-09-05,2020-09-19,"United States","5-14 years","Unknown",0,4,0,0,0,0,NA,14
+"534",2020-09-23,2020-09-05,2020-09-19,"United States","55-64 years","Hispanic or Latino",698,2102,530,437,2,-4366,NA,14
+"535",2020-09-23,2020-09-05,2020-09-19,"United States","55-64 years","Non-Hispanic American Indian or Alaska Native",26,177,26,13,0,-324,NA,14
+"536",2020-09-23,2020-09-05,2020-09-19,"United States","55-64 years","Non-Hispanic Asian",32,365,37,18,3,-868,NA,14
+"537",2020-09-23,2020-09-05,2020-09-19,"United States","55-64 years","Non-Hispanic Black",325,3031,312,183,-8,-5777,NA,14
+"538",2020-09-23,2020-09-05,2020-09-19,"United States","55-64 years","Non-Hispanic More than one race",7,77,6,3,1,-100,NA,14
+"539",2020-09-23,2020-09-05,2020-09-19,"United States","55-64 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",14,40,12,8,0,-48,NA,14
+"540",2020-09-23,2020-09-05,2020-09-19,"United States","55-64 years","Non-Hispanic White",506,11122,762,254,0,-12758,NA,14
+"541",2020-09-23,2020-09-05,2020-09-19,"United States","55-64 years","Unknown",129,395,71,51,5,-124,NA,14
+"542",2020-09-23,2020-09-05,2020-09-19,"United States","65-74 years","Hispanic or Latino",891,2598,677,573,4,-5381,NA,14
+"543",2020-09-23,2020-09-05,2020-09-19,"United States","65-74 years","Non-Hispanic American Indian or Alaska Native",34,219,31,20,0,-342,NA,14
+"544",2020-09-23,2020-09-05,2020-09-19,"United States","65-74 years","Non-Hispanic Asian",52,570,79,38,2,-1528,NA,14
+"545",2020-09-23,2020-09-05,2020-09-19,"United States","65-74 years","Non-Hispanic Black",501,3716,429,275,-3,-8344,NA,14
+"546",2020-09-23,2020-09-05,2020-09-19,"United States","65-74 years","Non-Hispanic More than one race",5,104,12,4,0,-162,NA,14
+"547",2020-09-23,2020-09-05,2020-09-19,"United States","65-74 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",8,36,8,7,0,-51,NA,14
+"548",2020-09-23,2020-09-05,2020-09-19,"United States","65-74 years","Non-Hispanic White",1246,18246,1625,655,5,-24993,NA,14
+"549",2020-09-23,2020-09-05,2020-09-19,"United States","65-74 years","Unknown",192,582,109,72,1,-261,NA,14
+"550",2020-09-23,2020-09-05,2020-09-19,"United States","75-84 years","Hispanic or Latino",753,2599,597,466,2,-5431,NA,14
+"551",2020-09-23,2020-09-05,2020-09-19,"United States","75-84 years","Non-Hispanic American Indian or Alaska Native",26,151,21,12,0,-301,NA,14
+"552",2020-09-23,2020-09-05,2020-09-19,"United States","75-84 years","Non-Hispanic Asian",46,705,101,39,-2,-1959,NA,14
+"553",2020-09-23,2020-09-05,2020-09-19,"United States","75-84 years","Non-Hispanic Black",415,2973,346,219,0,-7848,NA,14
+"554",2020-09-23,2020-09-05,2020-09-19,"United States","75-84 years","Non-Hispanic More than one race",15,112,18,9,0,-143,NA,14
+"555",2020-09-23,2020-09-05,2020-09-19,"United States","75-84 years","Non-Hispanic Native Hawaiian or Other Pacific Islander",4,26,3,2,0,-33,NA,14
+"556",2020-09-23,2020-09-05,2020-09-19,"United States","75-84 years","Non-Hispanic White",1889,23376,2075,904,5,-36485,NA,14
+"557",2020-09-23,2020-09-05,2020-09-19,"United States","75-84 years","Unknown",236,641,142,103,4,-145,NA,14
+"558",2020-09-23,2020-09-05,2020-09-19,"United States","85 years and over","Hispanic or Latino",550,2638,458,328,0,-5095,NA,14
+"559",2020-09-23,2020-09-05,2020-09-19,"United States","85 years and over","Non-Hispanic American Indian or Alaska Native",8,109,12,6,0,-227,NA,14
+"560",2020-09-23,2020-09-05,2020-09-19,"United States","85 years and over","Non-Hispanic Asian",108,1020,122,56,-1,-2602,NA,14
+"561",2020-09-23,2020-09-05,2020-09-19,"United States","85 years and over","Non-Hispanic Black",303,2611,267,160,0,-6489,NA,14
+"562",2020-09-23,2020-09-05,2020-09-19,"United States","85 years and over","Non-Hispanic More than one race",6,82,1,-1,0,-147,NA,14
+"563",2020-09-23,2020-09-05,2020-09-19,"United States","85 years and over","Non-Hispanic Native Hawaiian or Other Pacific Islander",3,17,1,1,0,-29,NA,14
+"564",2020-09-23,2020-09-05,2020-09-19,"United States","85 years and over","Non-Hispanic White",2231,29418,2112,875,1,-49628,NA,14
+"565",2020-09-23,2020-09-05,2020-09-19,"United States","85 years and over","Unknown",206,727,121,80,4,-141,NA,14
+"566",2020-09-23,2020-09-05,2020-09-19,"United States","All Ages","Hispanic or Latino",3487,13232,2688,2137,8,-24807,NA,14
+"567",2020-09-23,2020-09-05,2020-09-19,"United States","All Ages","Non-Hispanic American Indian or Alaska Native",130,1005,126,71,0,-1516,NA,14
+"568",2020-09-23,2020-09-05,2020-09-19,"United States","All Ages","Non-Hispanic Asian",265,3054,359,164,1,-7503,NA,14
+"569",2020-09-23,2020-09-05,2020-09-19,"United States","All Ages","Non-Hispanic Black",1745,16018,1561,949,-11,-32540,NA,14
+"570",2020-09-23,2020-09-05,2020-09-19,"United States","All Ages","Non-Hispanic More than one race",35,591,44,16,1,-664,NA,14
+"571",2020-09-23,2020-09-05,2020-09-19,"United States","All Ages","Non-Hispanic Native Hawaiian or Other Pacific Islander",39,159,33,22,0,-229,NA,14
+"572",2020-09-23,2020-09-05,2020-09-19,"United States","All Ages","Non-Hispanic White",6072,91760,6926,2796,12,-130269,NA,14
+"573",2020-09-23,2020-09-05,2020-09-19,"United States","All Ages","Total Deaths",12604,128490,12217,6484,28,-198269,NA,14
+"574",2020-09-23,2020-09-05,2020-09-19,"United States","All Ages","Unknown",831,2671,480,329,17,-741,NA,14
+"575",2020-09-23,2020-09-05,2020-09-19,"United States","Under 1 year","Hispanic or Latino",0,188,0,0,0,-27,NA,14
+"576",2020-09-23,2020-09-05,2020-09-19,"United States","Under 1 year","Non-Hispanic American Indian or Alaska Native",0,7,0,0,0,-3,NA,14
+"577",2020-09-23,2020-09-05,2020-09-19,"United States","Under 1 year","Non-Hispanic Asian",0,14,1,0,0,-4,NA,14
+"578",2020-09-23,2020-09-05,2020-09-19,"United States","Under 1 year","Non-Hispanic Black",1,218,2,0,0,-38,NA,14
+"579",2020-09-23,2020-09-05,2020-09-19,"United States","Under 1 year","Non-Hispanic More than one race",0,25,0,0,0,-5,NA,14
+"580",2020-09-23,2020-09-05,2020-09-19,"United States","Under 1 year","Non-Hispanic Native Hawaiian or Other Pacific Islander",0,3,0,0,0,-3,NA,14
+"581",2020-09-23,2020-09-05,2020-09-19,"United States","Under 1 year","Non-Hispanic White",0,318,3,0,0,-48,NA,14
+"582",2020-09-23,2020-09-05,2020-09-19,"United States","Under 1 year","Unknown",0,27,0,0,0,0,NA,14
